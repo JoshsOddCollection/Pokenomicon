@@ -24,13 +24,13 @@
         },
         {
             "id": "base_1_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_1_6",
-            "variant": "Holo Hickey",
+            "variant": "Holo Hickey (Unlimited)",
             "error": true,
             "error_type": "Hickey"
         }
@@ -67,25 +67,25 @@
         },
         {
             "id": "base_2_6",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_2_7",
-            "variant": "Missing Stage",
+            "variant": "Missing Stage (Unlimited)",
             "error": true,
             "error_type": "Obstruction"
         },
         {
             "id": "base_2_8",
-            "variant": "Missing Illustrator",
+            "variant": "Missing Illustrator (Unlimited)",
             "error": true,
             "error_type": "Obstruction"
         },
         {
             "id": "base_2_9",
-            "variant": "Red Dot",
+            "variant": "Red Dot (Unlimited)",
             "error": true,
             "error_type": "Hickey"
         }
@@ -117,13 +117,13 @@
         },
         {
             "id": "base_3_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_3_6",
-            "variant": "Black Dot",
+            "variant": "Black Dot (Unlimited)",
             "error": true,
             "error_type": "Hickey"
         }
@@ -155,13 +155,13 @@
         },
         {
             "id": "base_4_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_4_6",
-            "variant": "Black Dot",
+            "variant": "Black Dot (Unlimited)",
             "error": true,
             "error_type": "Hickey"
         }
@@ -193,19 +193,19 @@
         },
         {
             "id": "base_5_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_5_6",
-            "variant": "Black Dot",
+            "variant": "Black Dot (Unlimited)",
             "error": true,
             "error_type": "Hickey"
         },
         {
             "id": "base_5_7",
-            "variant": "Red Heart",
+            "variant": "Red Heart (Unlimited)",
             "error": true,
             "error_type": "Hickey"
         }
@@ -263,19 +263,19 @@
         },
         {
             "id": "base_7_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_7_6",
-            "variant": "Holo Energy",
+            "variant": "Holo Energy (Unlimited)",
             "error": true,
             "error_type": "Obstruction"
         },
         {
             "id": "base_7_7",
-            "variant": "Red Stain",
+            "variant": "Red Stain (Unlimited)",
             "error": true,
             "error_type": "Additional Ink"
         }
@@ -312,13 +312,13 @@
         },
         {
             "id": "base_8_6",
-            "variant": "Screen Holo",
+            "variant": "Screen Holo (1st Edition (Shadowed))",
             "error": true,
             "error_type": "Additional Ink"
         },
         {
             "id": "base_8_7",
-            "variant": "Green Dot",
+            "variant": "Green Dot (1st Edition (Shadowed))",
             "error": true,
             "error_type": "Hickey"
         }
@@ -350,13 +350,13 @@
         },
         {
             "id": "base_9_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_9_6",
-            "variant": "Additional White Ink",
+            "variant": "Additional White Ink (Unlimited)",
             "error": true,
             "error_type": "Additional Ink"
         }
@@ -388,25 +388,25 @@
         },
         {
             "id": "base_10_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_10_6",
-            "variant": "Holo Hickey",
+            "variant": "Holo Hickey (Unlimited)",
             "error": true,
             "error_type": "Hickey"
         },
         {
             "id": "base_10_7",
-            "variant": "Jumbled Text",
+            "variant": "Jumbled Text (Unlimited)",
             "error": true,
             "error_type": "Additional Ink"
         },
         {
             "id": "base_10_8",
-            "variant": "Missing Illustrator",
+            "variant": "Missing Illustrator (Unlimited)",
             "error": true,
             "error_type": "Obstruction"
         }
@@ -438,13 +438,13 @@
         },
         {
             "id": "base_11_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_11_6",
-            "variant": "Green Dot",
+            "variant": "Green Dot (Unlimited)",
             "error": true,
             "error_type": "Hickey"
         }
@@ -476,25 +476,25 @@
         },
         {
             "id": "base_12_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_12_6",
-            "variant": "No Damage",
+            "variant": "No Damage (Shadowless)",
             "error": true,
             "error_type": "Design"
         },
         {
             "id": "base_12_7",
-            "variant": "Yellow Hair Obstruction",
+            "variant": "Yellow Hair Obstruction (Unlimited)",
             "error": true,
             "error_type": "Obstruction"
         },
         {
             "id": "base_12_8",
-            "variant": "Black Hickey",
+            "variant": "Black Hickey (Unlimited)",
             "error": true,
             "error_type": "Hickey"
         }
@@ -526,7 +526,7 @@
         },
         {
             "id": "base_13_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         }
@@ -562,7 +562,7 @@
         },
         {
             "id": "base_14_6",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         }
@@ -594,13 +594,13 @@
         },
         {
             "id": "base_15_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_15_6",
-            "variant": "Liquid Obstruction",
+            "variant": "Liquid Obstruction (Unlimited)",
             "error": true,
             "error_type": "Obstruction"
         }
@@ -632,7 +632,7 @@
         },
         {
             "id": "base_16_5",
-            "variant": "Holo Shift",
+            "variant": "Holo Shift (Unlimited)",
             "error": true,
             "error_type": "Misaligned Print Layer"
         }
@@ -664,9 +664,59 @@
         },
         {
             "id": "base_17_5",
-            "variant": "D.efending",
+            "variant": "D.efending (Unlimited)",
             "error": true,
             "error_type": "Design"
+        },
+        {
+            "id": "base_17_6",
+            "variant": "Bloody Wing (Unlimited)",
+            "error": true,
+            "error_type": "Hickey"
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_18",
+    "name": "Dragonair",
+    "number": "18",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "variants": [
+        {
+            "id": "base_18_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_18_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_18_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_18_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_18_5",
+            "variant": "Rainbow Smear (1st Edition)",
+            "error": true,
+            "error_type": "Obstruction"
+        },
+        {
+            "id": "base_18_6",
+            "variant": "Rainbow Smear (Shadowless)",
+            "error": true,
+            "error_type": "Obstruction"
+        },
+        {
+            "id": "base_18_7",
+            "variant": "Dragon Ball Hickey (Unlimited)",
+            "error": true,
+            "error_type": "Hickey"
         }
     ],
     "cameos": null
