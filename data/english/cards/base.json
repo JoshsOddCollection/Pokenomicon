@@ -1,0 +1,274 @@
+[
+  {
+    "id": "base_1",
+    "name": "Alakazam",
+    "number": "1",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_1_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_1_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_1_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_1_4",
+            "variant": "Unlimited 1999-2000 Copyright"
+        },
+        {
+            "id": "base_1_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_1_6",
+            "variant": "Holo Hickey",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_2",
+    "name": "Blastoise",
+    "number": "2",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_2_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_2_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_2_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_2_4",
+            "variant": "Unlimited 1999-2000 Copyright"
+        },
+        {
+            "id": "base_2_5",
+            "variant": "Trainer Deck B",
+            "rarity_override": "Rare Non-Holo"
+        },
+        {
+            "id": "base_2_6",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_2_7",
+            "variant": "Missing Stage",
+            "error": true
+        },
+        {
+            "id": "base_2_8",
+            "variant": "Missing Illustrator",
+            "error": true
+        },
+        {
+            "id": "base_2_9",
+            "variant": "Red Dot",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_3",
+    "name": "Chansey",
+    "number": "3",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_3_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_3_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_3_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_3_4",
+            "variant": "Unlimited 1999-2000 Copyright"
+        },
+        {
+            "id": "base_3_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_3_6",
+            "variant": "Black Dot",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_4",
+    "name": "Charizard",
+    "number": 4,
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_4_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_4_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_4_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_4_4",
+            "variant": "Unlimited 1999-2000 Copyright"
+        },
+        {
+            "id": "base_4_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_4_6",
+            "variant": "Black Dot",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_5",
+    "name": "Clefairy",
+    "number": 5,
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_5_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_5_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_5_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_5_4",
+            "variant": "Unlimited 1999-2000 Copyright"
+        },
+        {
+            "id": "base_5_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_5_6",
+            "variant": "Black Dot",
+            "error": true
+        },
+        {
+            "id": "base_5_7",
+            "variant": "Red Heart",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_6",
+    "name": "Gyarados",
+    "number": 6,
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_6_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_6_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_6_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_6_4",
+            "variant": "Unlimited 1999-2000 Copyright"
+        },
+        {
+            "id": "base_6_5",
+            "variant": "Holo Shift",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_7",
+    "name": "Hitmonchan",
+    "number": 7,
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_7_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_7_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_7_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_7_4",
+            "variant": "Unlimited 1999-2000 Copyright"
+        },
+        {
+            "id": "base_7_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_7_6",
+            "variant": "Holo Energy",
+            "error": true
+        },
+        {
+            "id": "base_7_7",
+            "variant": "Red Stain",
+            "error": true
+        }
+    ],
+    "cameos": null
+  }
+]
