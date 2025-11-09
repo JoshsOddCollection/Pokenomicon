@@ -125,7 +125,7 @@
   {
     "id": "base_4",
     "name": "Charizard",
-    "number": 4,
+    "number": "4",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
     "variants": [
@@ -161,7 +161,7 @@
   {
     "id": "base_5",
     "name": "Clefairy",
-    "number": 5,
+    "number": "5",
     "artist": "Ken Sugimori",
     "rarity": "Rare Holo",
     "variants": [
@@ -202,7 +202,7 @@
   {
     "id": "base_6",
     "name": "Gyarados",
-    "number": 6,
+    "number": "6",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
     "variants": [
@@ -221,11 +221,6 @@
         {
             "id": "base_6_4",
             "variant": "Unlimited 1999-2000 Copyright"
-        },
-        {
-            "id": "base_6_5",
-            "variant": "Holo Shift",
-            "error": true
         }
     ],
     "cameos": null
@@ -233,7 +228,7 @@
   {
     "id": "base_7",
     "name": "Hitmonchan",
-    "number": 7,
+    "number": "7",
     "artist": "Ken Sugimori",
     "rarity": "Rare Holo",
     "variants": [
@@ -266,6 +261,344 @@
         {
             "id": "base_7_7",
             "variant": "Red Stain",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_8",
+    "name": "Machamp",
+    "number": "8",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_8_1",
+            "variant": "1st Edition (Shadowless)"
+        },
+        {
+            "id": "base_8_2",
+            "variant": "1st Edition (Shadowed)"
+        },
+        {
+            "id": "base_8_3",
+            "variant": "1st Edition Cosmos Holo - 2-Player CD-ROM Starter Set"
+        },
+        {
+            "id": "base_8_4",
+            "variant": "1st Edition 1999-2000 Copyright"
+        },
+        {
+            "id": "base_8_5",
+            "variant": "Trainer Deck A",
+            "rarity_override": "Rare Non-Holo"
+        },
+        {
+            "id": "base_8_6",
+            "variant": "Screen Holo",
+            "error": true
+        },
+        {
+            "id": "base_8_7",
+            "variant": "Green Dot",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_9",
+    "name": "Magneton",
+    "number": "9",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_9_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_9_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_9_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_9_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_9_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_9_6",
+            "variant": "Additional White Ink",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_10",
+    "name": "Mewtwo",
+    "number": "10",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_10_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_10_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_10_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_10_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_10_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_10_6",
+            "variant": "Holo Hickey",
+            "error": true
+        },
+        {
+            "id": "base_10_7",
+            "variant": "Jumbled Text",
+            "error": true
+        },
+        {
+            "id": "base_10_8",
+            "variant": "Missing Illustrator",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_11",
+    "name": "Nidoking",
+    "number": "11",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_11_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_11_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_11_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_11_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_11_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_11_6",
+            "variant": "Green Dot",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_12",
+    "name": "Ninetales",
+    "number": "12",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_12_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_12_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_12_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_12_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_12_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_12_6",
+            "variant": "No Damage",
+            "error": true
+        },
+        {
+            "id": "base_12_7",
+            "variant": "Yellow Hair Obstruction",
+            "error": true
+        },
+        {
+            "id": "base_12_8",
+            "variant": "Black Hickey",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_13",
+    "name": "Poliwrath",
+    "number": "13",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_13_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_13_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_13_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_13_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_13_5",
+            "variant": "Holo Shift",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_14",
+    "name": "Raichu",
+    "number": "14",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_14_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_14_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_14_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_14_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_14_5",
+            "variant": "Prerelease"
+        },
+        {
+            "id": "base_14_6",
+            "variant": "Holo Shift",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_15",
+    "name": "Venusaur",
+    "number": "15",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_15_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_15_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_15_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_15_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_15_5",
+            "variant": "Holo Shift",
+            "error": true
+        },
+        {
+            "id": "base_15_6",
+            "variant": "Liquid Obstruction",
+            "error": true
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_16",
+    "name": "Zapdos",
+    "number": "16",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "variants": [
+        {
+            "id": "base_16_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_16_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_16_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_16_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_16_5",
+            "variant": "Holo Shift",
             "error": true
         }
     ],
