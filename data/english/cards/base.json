@@ -25,12 +25,14 @@
         {
             "id": "base_1_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_1_6",
             "variant": "Holo Hickey",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         }
     ],
     "cameos": null
@@ -66,22 +68,26 @@
         {
             "id": "base_2_6",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_2_7",
             "variant": "Missing Stage",
-            "error": true
+            "error": true,
+            "error_type": "Obstruction"
         },
         {
             "id": "base_2_8",
             "variant": "Missing Illustrator",
-            "error": true
+            "error": true,
+            "error_type": "Obstruction"
         },
         {
             "id": "base_2_9",
             "variant": "Red Dot",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         }
     ],
     "cameos": null
@@ -112,12 +118,14 @@
         {
             "id": "base_3_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_3_6",
             "variant": "Black Dot",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         }
     ],
     "cameos": null
@@ -148,12 +156,14 @@
         {
             "id": "base_4_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_4_6",
             "variant": "Black Dot",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         }
     ],
     "cameos": null
@@ -184,17 +194,20 @@
         {
             "id": "base_5_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_5_6",
             "variant": "Black Dot",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         },
         {
             "id": "base_5_7",
             "variant": "Red Heart",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         }
     ],
     "cameos": null
@@ -251,17 +264,20 @@
         {
             "id": "base_7_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_7_6",
             "variant": "Holo Energy",
-            "error": true
+            "error": true,
+            "error_type": "Obstruction"
         },
         {
             "id": "base_7_7",
             "variant": "Red Stain",
-            "error": true
+            "error": true,
+            "error_type": "Additional Ink"
         }
     ],
     "cameos": null
@@ -297,12 +313,14 @@
         {
             "id": "base_8_6",
             "variant": "Screen Holo",
-            "error": true
+            "error": true,
+            "error_type": "Additional Ink"
         },
         {
             "id": "base_8_7",
             "variant": "Green Dot",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         }
     ],
     "cameos": null
@@ -333,12 +351,14 @@
         {
             "id": "base_9_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_9_6",
             "variant": "Additional White Ink",
-            "error": true
+            "error": true,
+            "error_type": "Additional Ink"
         }
     ],
     "cameos": null
@@ -369,22 +389,26 @@
         {
             "id": "base_10_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_10_6",
             "variant": "Holo Hickey",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         },
         {
             "id": "base_10_7",
             "variant": "Jumbled Text",
-            "error": true
+            "error": true,
+            "error_type": "Additional Ink"
         },
         {
             "id": "base_10_8",
             "variant": "Missing Illustrator",
-            "error": true
+            "error": true,
+            "error_type": "Obstruction"
         }
     ],
     "cameos": null
@@ -415,12 +439,14 @@
         {
             "id": "base_11_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_11_6",
             "variant": "Green Dot",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         }
     ],
     "cameos": null
@@ -451,22 +477,26 @@
         {
             "id": "base_12_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_12_6",
             "variant": "No Damage",
-            "error": true
+            "error": true,
+            "error_type": "Design"
         },
         {
             "id": "base_12_7",
             "variant": "Yellow Hair Obstruction",
-            "error": true
+            "error": true,
+            "error_type": "Obstruction"
         },
         {
             "id": "base_12_8",
             "variant": "Black Hickey",
-            "error": true
+            "error": true,
+            "error_type": "Hickey"
         }
     ],
     "cameos": null
@@ -497,7 +527,8 @@
         {
             "id": "base_13_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         }
     ],
     "cameos": null
@@ -532,7 +563,8 @@
         {
             "id": "base_14_6",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         }
     ],
     "cameos": null
@@ -563,12 +595,14 @@
         {
             "id": "base_15_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
         },
         {
             "id": "base_15_6",
             "variant": "Liquid Obstruction",
-            "error": true
+            "error": true,
+            "error_type": "Obstruction"
         }
     ],
     "cameos": null
@@ -599,7 +633,40 @@
         {
             "id": "base_16_5",
             "variant": "Holo Shift",
-            "error": true
+            "error": true,
+            "error_type": "Misaligned Print Layer"
+        }
+    ],
+    "cameos": null
+  },
+  {
+    "id": "base_17",
+    "name": "Beedrill",
+    "number": "17",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "variants": [
+        {
+            "id": "base_17_1",
+            "variant": "1st Edition"
+        },
+        {
+            "id": "base_17_2",
+            "variant": "Shadowless"
+        },
+        {
+            "id": "base_17_3",
+            "variant": "Unlimited"
+        },
+        {
+            "id": "base_17_4",
+            "variant": "1999-2000 Copyright"
+        },
+        {
+            "id": "base_17_5",
+            "variant": "D.efending",
+            "error": true,
+            "error_type": "Design"
         }
     ],
     "cameos": null
