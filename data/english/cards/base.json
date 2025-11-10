@@ -1,724 +1,2914 @@
 [
-  {
-    "id": "base_1",
-    "name": "Alakazam",
-    "number": "1",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_1_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_1_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_1_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_1_4",
-            "variant": "Unlimited 1999-2000 Copyright"
-        },
-        {
-            "id": "base_1_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_1_6",
-            "variant": "Holo Hickey (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_2",
-    "name": "Blastoise",
-    "number": "2",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_2_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_2_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_2_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_2_4",
-            "variant": "Unlimited 1999-2000 Copyright"
-        },
-        {
-            "id": "base_2_5",
-            "variant": "Trainer Deck B",
-            "rarity_override": "Rare Non-Holo"
-        },
-        {
-            "id": "base_2_6",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_2_7",
-            "variant": "Missing Stage (Unlimited)",
-            "error": true,
-            "error_type": "Obstruction"
-        },
-        {
-            "id": "base_2_8",
-            "variant": "Missing Illustrator (Unlimited)",
-            "error": true,
-            "error_type": "Obstruction"
-        },
-        {
-            "id": "base_2_9",
-            "variant": "Red Dot (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_3",
-    "name": "Chansey",
-    "number": "3",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_3_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_3_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_3_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_3_4",
-            "variant": "Unlimited 1999-2000 Copyright"
-        },
-        {
-            "id": "base_3_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_3_6",
-            "variant": "Black Dot (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_4",
-    "name": "Charizard",
-    "number": "4",
-    "artist": "Mitsuhiro Arita",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_4_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_4_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_4_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_4_4",
-            "variant": "Unlimited 1999-2000 Copyright"
-        },
-        {
-            "id": "base_4_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_4_6",
-            "variant": "Black Dot (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_5",
-    "name": "Clefairy",
-    "number": "5",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_5_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_5_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_5_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_5_4",
-            "variant": "Unlimited 1999-2000 Copyright"
-        },
-        {
-            "id": "base_5_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_5_6",
-            "variant": "Black Dot (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        },
-        {
-            "id": "base_5_7",
-            "variant": "Red Heart (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_6",
-    "name": "Gyarados",
-    "number": "6",
-    "artist": "Mitsuhiro Arita",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_6_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_6_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_6_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_6_4",
-            "variant": "Unlimited 1999-2000 Copyright"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_7",
-    "name": "Hitmonchan",
-    "number": "7",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_7_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_7_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_7_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_7_4",
-            "variant": "Unlimited 1999-2000 Copyright"
-        },
-        {
-            "id": "base_7_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_7_6",
-            "variant": "Holo Energy (Unlimited)",
-            "error": true,
-            "error_type": "Obstruction"
-        },
-        {
-            "id": "base_7_7",
-            "variant": "Red Stain (Unlimited)",
-            "error": true,
-            "error_type": "Additional Ink"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_8",
-    "name": "Machamp",
-    "number": "8",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_8_1",
-            "variant": "1st Edition (Shadowless)"
-        },
-        {
-            "id": "base_8_2",
-            "variant": "1st Edition (Shadowed)"
-        },
-        {
-            "id": "base_8_3",
-            "variant": "1st Edition Cosmos Holo - 2-Player CD-ROM Starter Set"
-        },
-        {
-            "id": "base_8_4",
-            "variant": "1st Edition 1999-2000 Copyright"
-        },
-        {
-            "id": "base_8_5",
-            "variant": "Trainer Deck A",
-            "rarity_override": "Rare Non-Holo"
-        },
-        {
-            "id": "base_8_6",
-            "variant": "Screen Holo (1st Edition (Shadowed))",
-            "error": true,
-            "error_type": "Additional Ink"
-        },
-        {
-            "id": "base_8_7",
-            "variant": "Green Dot (1st Edition (Shadowed))",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_9",
-    "name": "Magneton",
-    "number": "9",
-    "artist": "Keiji Kinebuchi",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_9_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_9_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_9_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_9_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_9_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_9_6",
-            "variant": "Additional White Ink (Unlimited)",
-            "error": true,
-            "error_type": "Additional Ink"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_10",
-    "name": "Mewtwo",
-    "number": "10",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_10_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_10_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_10_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_10_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_10_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_10_6",
-            "variant": "Holo Hickey (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        },
-        {
-            "id": "base_10_7",
-            "variant": "Jumbled Text (Unlimited)",
-            "error": true,
-            "error_type": "Additional Ink"
-        },
-        {
-            "id": "base_10_8",
-            "variant": "Missing Illustrator (Unlimited)",
-            "error": true,
-            "error_type": "Obstruction"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_11",
-    "name": "Nidoking",
-    "number": "11",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_11_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_11_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_11_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_11_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_11_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_11_6",
-            "variant": "Green Dot (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_12",
-    "name": "Ninetales",
-    "number": "12",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_12_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_12_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_12_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_12_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_12_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_12_6",
-            "variant": "No Damage (Shadowless)",
-            "error": true,
-            "error_type": "Design"
-        },
-        {
-            "id": "base_12_7",
-            "variant": "Yellow Hair Obstruction (Unlimited)",
-            "error": true,
-            "error_type": "Obstruction"
-        },
-        {
-            "id": "base_12_8",
-            "variant": "Black Hickey (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_13",
-    "name": "Poliwrath",
-    "number": "13",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_13_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_13_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_13_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_13_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_13_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_14",
-    "name": "Raichu",
-    "number": "14",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_14_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_14_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_14_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_14_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_14_5",
-            "variant": "Prerelease"
-        },
-        {
-            "id": "base_14_6",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_15",
-    "name": "Venusaur",
-    "number": "15",
-    "artist": "Mitsuhiro Arita",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_15_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_15_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_15_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_15_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_15_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        },
-        {
-            "id": "base_15_6",
-            "variant": "Liquid Obstruction (Unlimited)",
-            "error": true,
-            "error_type": "Obstruction"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_16",
-    "name": "Zapdos",
-    "number": "16",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare Holo",
-    "variants": [
-        {
-            "id": "base_16_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_16_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_16_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_16_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_16_5",
-            "variant": "Holo Shift (Unlimited)",
-            "error": true,
-            "error_type": "Misaligned Print Layer"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_17",
-    "name": "Beedrill",
-    "number": "17",
-    "artist": "Ken Sugimori",
-    "rarity": "Rare",
-    "variants": [
-        {
-            "id": "base_17_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_17_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_17_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_17_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_17_5",
-            "variant": "D.efending (Unlimited)",
-            "error": true,
-            "error_type": "Design"
-        },
-        {
-            "id": "base_17_6",
-            "variant": "Bloody Wing (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  },
-  {
-    "id": "base_18",
-    "name": "Dragonair",
-    "number": "18",
-    "artist": "Mitsuhiro Arita",
-    "rarity": "Rare",
-    "variants": [
-        {
-            "id": "base_18_1",
-            "variant": "1st Edition"
-        },
-        {
-            "id": "base_18_2",
-            "variant": "Shadowless"
-        },
-        {
-            "id": "base_18_3",
-            "variant": "Unlimited"
-        },
-        {
-            "id": "base_18_4",
-            "variant": "1999-2000 Copyright"
-        },
-        {
-            "id": "base_18_5",
-            "variant": "Rainbow Smear (1st Edition)",
-            "error": true,
-            "error_type": "Obstruction"
-        },
-        {
-            "id": "base_18_6",
-            "variant": "Rainbow Smear (Shadowless)",
-            "error": true,
-            "error_type": "Obstruction"
-        },
-        {
-            "id": "base_18_7",
-            "variant": "Dragon Ball Hickey (Unlimited)",
-            "error": true,
-            "error_type": "Hickey"
-        }
-    ],
-    "cameos": null
-  }
+	{
+		"id": "base_1",
+		"name": "Alakazam",
+		"number": "1",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_1_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_1_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_1_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_1_4",
+				"variant": "Unlimited 1999-2000 Copyright"
+			},
+			{
+				"id": "base_1_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_1_6",
+				"variant": "Holo Hickey (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_2",
+		"name": "Blastoise",
+		"number": "2",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_2_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_2_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_2_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_2_4",
+				"variant": "Unlimited 1999-2000 Copyright"
+			},
+			{
+				"id": "base_2_5",
+				"variant": "Trainer Deck B",
+				"rarity_override": "Rare Non-Holo"
+			},
+			{
+				"id": "base_2_6",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_2_7",
+				"variant": "Missing Stage (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			},
+			{
+				"id": "base_2_8",
+				"variant": "Missing Illustrator (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			},
+			{
+				"id": "base_2_9",
+				"variant": "Red Dot (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_3",
+		"name": "Chansey",
+		"number": "3",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_3_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_3_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_3_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_3_4",
+				"variant": "Unlimited 1999-2000 Copyright"
+			},
+			{
+				"id": "base_3_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_3_6",
+				"variant": "Black Dot (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_4",
+		"name": "Charizard",
+		"number": "4",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_4_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_4_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_4_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_4_4",
+				"variant": "Unlimited 1999-2000 Copyright"
+			},
+			{
+				"id": "base_4_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_4_6",
+				"variant": "Black Dot (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_5",
+		"name": "Clefairy",
+		"number": "5",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_5_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_5_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_5_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_5_4",
+				"variant": "Unlimited 1999-2000 Copyright"
+			},
+			{
+				"id": "base_5_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_5_6",
+				"variant": "Black Dot (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			},
+			{
+				"id": "base_5_7",
+				"variant": "Red Heart (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_6",
+		"name": "Gyarados",
+		"number": "6",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_6_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_6_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_6_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_6_4",
+				"variant": "Unlimited 1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_7",
+		"name": "Hitmonchan",
+		"number": "7",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_7_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_7_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_7_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_7_4",
+				"variant": "Unlimited 1999-2000 Copyright"
+			},
+			{
+				"id": "base_7_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_7_6",
+				"variant": "Holo Energy (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			},
+			{
+				"id": "base_7_7",
+				"variant": "Red Stain (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_8",
+		"name": "Machamp",
+		"number": "8",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_8_1",
+				"variant": "1st Edition (Shadowless)"
+			},
+			{
+				"id": "base_8_2",
+				"variant": "1st Edition (Shadowed)"
+			},
+			{
+				"id": "base_8_3",
+				"variant": "1st Edition Cosmos Holo - 2-Player CD-ROM Starter Set"
+			},
+			{
+				"id": "base_8_4",
+				"variant": "1st Edition 1999-2000 Copyright"
+			},
+			{
+				"id": "base_8_5",
+				"variant": "Trainer Deck A",
+				"rarity_override": "Rare Non-Holo"
+			},
+			{
+				"id": "base_8_6",
+				"variant": "Screen Holo (1st Edition (Shadowed))",
+				"error": true,
+				"error_type": "Additional Ink"
+			},
+			{
+				"id": "base_8_7",
+				"variant": "Green Dot (1st Edition (Shadowed))",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_9",
+		"name": "Magneton",
+		"number": "9",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_9_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_9_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_9_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_9_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_9_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_9_6",
+				"variant": "Additional White Ink (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_10",
+		"name": "Mewtwo",
+		"number": "10",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_10_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_10_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_10_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_10_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_10_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_10_6",
+				"variant": "Holo Hickey (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			},
+			{
+				"id": "base_10_7",
+				"variant": "Jumbled Text (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
+			},
+			{
+				"id": "base_10_8",
+				"variant": "Missing Illustrator (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_11",
+		"name": "Nidoking",
+		"number": "11",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_11_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_11_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_11_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_11_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_11_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_11_6",
+				"variant": "Green Dot (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_12",
+		"name": "Ninetales",
+		"number": "12",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_12_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_12_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_12_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_12_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_12_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_12_6",
+				"variant": "No Damage (Shadowless)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "base_12_7",
+				"variant": "Yellow Hair Obstruction (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			},
+			{
+				"id": "base_12_8",
+				"variant": "Black Hickey (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_13",
+		"name": "Poliwrath",
+		"number": "13",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_13_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_13_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_13_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_13_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_13_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_14",
+		"name": "Raichu",
+		"number": "14",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_14_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_14_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_14_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_14_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_14_5",
+				"variant": "Prerelease"
+			},
+			{
+				"id": "base_14_6",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_15",
+		"name": "Venusaur",
+		"number": "15",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_15_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_15_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_15_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_15_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_15_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			},
+			{
+				"id": "base_15_6",
+				"variant": "Liquid Obstruction (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_16",
+		"name": "Zapdos",
+		"number": "16",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "base_16_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_16_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_16_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_16_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_16_5",
+				"variant": "Holo Shift (Unlimited)",
+				"error": true,
+				"error_type": "Misaligned Print Layer"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_17",
+		"name": "Beedrill",
+		"number": "17",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_17_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_17_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_17_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_17_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_17_5",
+				"variant": "D.efending (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "base_17_6",
+				"variant": "Bloody Wing (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_18",
+		"name": "Dragonair",
+		"number": "18",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_18_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_18_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_18_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_18_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_18_5",
+				"variant": "Rainbow Smear (1st Edition)",
+				"error": true,
+				"error_type": "Obstruction"
+			},
+			{
+				"id": "base_18_6",
+				"variant": "Rainbow Smear (Shadowless)",
+				"error": true,
+				"error_type": "Obstruction"
+			},
+			{
+				"id": "base_18_7",
+				"variant": "Dragon Ball Hickey (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_19",
+		"name": "Dugtrio",
+		"number": "19",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_19_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_19_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_19_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_19_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_20",
+		"name": "Electabuzz",
+		"number": "20",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_20_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_20_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_20_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_20_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_21",
+		"name": "Electrode",
+		"number": "21",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_21_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_21_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_21_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_21_4",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_21_5",
+				"variant": "Third Eye",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_22",
+		"name": "Pidgeotto",
+		"number": "22",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_22_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_22_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_22_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_22_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_23",
+		"name": "Arcanine",
+		"number": "23",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_23_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_23_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_23_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_23_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_24",
+		"name": "Charmeleon",
+		"number": "24",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_24_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_24_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_24_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_24_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_25",
+		"name": "Dewgong",
+		"number": "25",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_25_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_25_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_25_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_25_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_26",
+		"name": "Dratini",
+		"number": "26",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_26_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_26_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_26_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_26_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_27",
+		"name": "Farfetch'd",
+		"number": "27",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_27_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_27_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_27_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_27_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_28",
+		"name": "Growlithe",
+		"number": "28",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_28_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_28_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_28_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_28_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_29",
+		"name": "Haunter",
+		"number": "29",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_29_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_29_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_29_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_29_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_30",
+		"name": "Ivysaur",
+		"number": "30",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_30_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_30_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_30_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_30_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_31",
+		"name": "Jynx",
+		"number": "31",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_31_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_31_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_31_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_31_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_32",
+		"name": "Kadabra",
+		"number": "32",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_32_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_32_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_32_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_32_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_33",
+		"name": "Kakuna",
+		"number": "33",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_33_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_33_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_33_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_33_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_34",
+		"name": "Machoke",
+		"number": "34",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_34_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_34_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_34_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_34_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_35",
+		"name": "Magikarp",
+		"number": "35",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_35_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_35_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_35_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_35_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_36",
+		"name": "Magmar",
+		"number": "36",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_36_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_36_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_36_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_36_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_37",
+		"name": "Nidorino",
+		"number": "37",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_37_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_37_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_37_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_37_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_38",
+		"name": "Poliwhirl",
+		"number": "38",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_38_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_38_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_38_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_38_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_39",
+		"name": "Porygon",
+		"number": "39",
+		"artist": "Tomoaki Imakuni",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_39_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_39_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_39_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_39_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_40",
+		"name": "Raticate",
+		"number": "40",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_40_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_40_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_40_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_40_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_41",
+		"name": "Seel",
+		"number": "41",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_41_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_41_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_41_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_41_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_42",
+		"name": "Wartortle",
+		"number": "42",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_42_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_42_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_42_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_42_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_43",
+		"name": "Abra",
+		"number": "43",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_43_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_43_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_43_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_43_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_44",
+		"name": "Bulbasaur",
+		"number": "44",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_44_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_44_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_44_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_44_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_45",
+		"name": "Caterpie",
+		"number": "45",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_45_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_45_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_45_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_45_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_46",
+		"name": "Charmander",
+		"number": "46",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_46_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_46_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_46_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_46_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_47",
+		"name": "Diglett",
+		"number": "47",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_47_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_47_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_47_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_47_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_48",
+		"name": "Doduo",
+		"number": "48",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_48_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_48_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_48_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_48_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_49",
+		"name": "Drowzee",
+		"number": "49",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_49_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_49_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_49_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_49_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_50",
+		"name": "Gastly",
+		"number": "50",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_50_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_50_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_50_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_50_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_51",
+		"name": "Koffing",
+		"number": "51",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_51_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_51_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_51_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_51_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_52",
+		"name": "Machop",
+		"number": "52",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_52_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_52_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_52_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_52_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_53",
+		"name": "Magnemite",
+		"number": "53",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_53_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_53_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_53_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_53_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_54",
+		"name": "Metapod",
+		"number": "54",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_54_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_54_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_54_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_54_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_55",
+		"name": "Nidoran \u2642",
+		"number": "55",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_55_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_55_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_55_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_55_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_56",
+		"name": "Onix",
+		"number": "56",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_56_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_56_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_56_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_56_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_57",
+		"name": "Pidgey",
+		"number": "57",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_57_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_57_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_57_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_57_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_58",
+		"name": "Pikachu",
+		"number": "58",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_58_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_58_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_58_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_58_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_59",
+		"name": "Poliwag",
+		"number": "59",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_59_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_59_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_59_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_59_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_60",
+		"name": "Ponyta",
+		"number": "60",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_60_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_60_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_60_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_60_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_61",
+		"name": "Rattata",
+		"number": "61",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_61_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_61_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_61_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_61_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_62",
+		"name": "Sandshrew",
+		"number": "62",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_62_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_62_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_62_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_62_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_63",
+		"name": "Squirtle",
+		"number": "63",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_63_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_63_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_63_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_63_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_64",
+		"name": "Starmie",
+		"number": "64",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_64_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_64_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_64_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_64_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_65",
+		"name": "Staryu",
+		"number": "65",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_65_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_65_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_65_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_65_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_66",
+		"name": "Tangela",
+		"number": "66",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_66_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_66_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_66_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_66_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_67",
+		"name": "Voltorb",
+		"number": "67",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_67_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_67_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_67_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_67_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_68",
+		"name": "Vulpix",
+		"number": "68",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_68_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_68_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_68_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_68_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_69",
+		"name": "Weedle",
+		"number": "69",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_69_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_69_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_69_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_69_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_70",
+		"name": "Clefairy Doll",
+		"number": "70",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_70_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_70_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_70_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_70_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_71",
+		"name": "Computer Search",
+		"number": "71",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_71_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_71_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_71_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_71_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_72",
+		"name": "Devolution Spray",
+		"number": "72",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_72_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_72_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_72_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_72_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_73",
+		"name": "Impostor Professor Oak",
+		"number": "73",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_73_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_73_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_73_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_73_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_74",
+		"name": "Item Finder",
+		"number": "74",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_74_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_74_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_74_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_74_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_75",
+		"name": "Lass",
+		"number": "75",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_75_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_75_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_75_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_75_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_76",
+		"name": "Pok\u00e9mon Breeder",
+		"number": "76",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_76_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_76_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_76_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_76_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_77",
+		"name": "Pok\u00e9mon Trader",
+		"number": "77",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_77_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_77_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_77_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_77_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_78",
+		"name": "Scoop Up",
+		"number": "78",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_78_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_78_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_78_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_78_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_79",
+		"name": "Super Energy Removal",
+		"number": "79",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "base_79_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_79_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_79_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_79_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_80",
+		"name": "Defender",
+		"number": "80",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_80_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_80_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_80_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_80_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_81",
+		"name": "Energy Retrieval",
+		"number": "81",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_81_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_81_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_81_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_81_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_82",
+		"name": "Full Heal",
+		"number": "82",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_82_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_82_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_82_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_82_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_83",
+		"name": "Maintenance",
+		"number": "83",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_83_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_83_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_83_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_83_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_84",
+		"name": "PlusPower",
+		"number": "84",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_84_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_84_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_84_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_84_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_85",
+		"name": "Pok\u00e9mon Center",
+		"number": "85",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_85_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_85_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_85_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_85_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_86",
+		"name": "Pok\u00e9mon Flute",
+		"number": "86",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_86_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_86_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_86_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_86_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_87",
+		"name": "Pok\u00e9dex",
+		"number": "87",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_87_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_87_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_87_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_87_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_88",
+		"name": "Professor Oak",
+		"number": "88",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_88_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_88_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_88_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_88_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_89",
+		"name": "Revive",
+		"number": "89",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_89_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_89_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_89_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_89_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_90",
+		"name": "Super Potion",
+		"number": "90",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_90_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_90_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_90_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_90_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_91",
+		"name": "Bill",
+		"number": "91",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_91_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_91_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_91_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_91_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_92",
+		"name": "Energy Removal",
+		"number": "92",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_92_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_92_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_92_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_92_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_93",
+		"name": "Gust of Wind",
+		"number": "93",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_93_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_93_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_93_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_93_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_94",
+		"name": "Potion",
+		"number": "94",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_94_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_94_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_94_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_94_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_95",
+		"name": "Switch",
+		"number": "95",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "base_95_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_95_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_95_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_95_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_96",
+		"name": "Double Colorless Energy",
+		"number": "96",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "base_96_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_96_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_96_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_96_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_97",
+		"name": "Fighting Energy",
+		"number": "97",
+		"artist": "Keiji Kinebuchi",
+		"rarity": null,
+		"variants": [
+			{
+				"id": "base_97_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_97_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_97_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_97_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_98",
+		"name": "Fire Energy",
+		"number": "98",
+		"artist": "Keiji Kinebuchi",
+		"rarity": null,
+		"variants": [
+			{
+				"id": "base_98_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_98_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_98_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_98_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_99",
+		"name": "Grass Energy",
+		"number": "99",
+		"artist": "Keiji Kinebuchi",
+		"rarity": null,
+		"variants": [
+			{
+				"id": "base_99_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_99_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_99_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_99_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_100",
+		"name": "Lightning Energy",
+		"number": "100",
+		"artist": "Keiji Kinebuchi",
+		"rarity": null,
+		"variants": [
+			{
+				"id": "base_100_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_100_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_100_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_100_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_101",
+		"name": "Psychic Energy",
+		"number": "101",
+		"artist": "Keiji Kinebuchi",
+		"rarity": null,
+		"variants": [
+			{
+				"id": "base_101_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_101_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_101_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_101_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	},
+	{
+		"id": "base_102",
+		"name": "Water Energy",
+		"number": "102",
+		"artist": "Keiji Kinebuchi",
+		"rarity": null,
+		"variants": [
+			{
+				"id": "base_102_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "base_102_2",
+				"variant": "Shadowless"
+			},
+			{
+				"id": "base_102_3",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "base_102_4",
+				"variant": "1999-2000 Copyright"
+			}
+		],
+		"cameos": null
+	}
 ]
