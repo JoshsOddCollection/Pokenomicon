@@ -827,6 +827,10 @@
 			{
 				"id": "base_22_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_22_5",
+				"variant": "Trainer Deck B"
 			}
 		],
 		"cameos": null
@@ -879,6 +883,18 @@
 			{
 				"id": "base_24_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_24_5",
+				"variant": "Thigh Tattoo (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			},
+			{
+				"id": "base_24_6",
+				"variant": "Blue Slash (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
 			}
 		],
 		"cameos": null
@@ -1009,6 +1025,18 @@
 			{
 				"id": "base_29_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_29_5",
+				"variant": "Ghost Hickey (Shadowless)",
+				"error": true,
+				"error_type": "Hickey"
+			},
+			{
+				"id": "base_29_6",
+				"variant": "Face Hickey (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -1139,6 +1167,10 @@
 			{
 				"id": "base_34_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_34_5",
+				"variant": "Trainer Deck A"
 			}
 		],
 		"cameos": null
@@ -1191,6 +1223,12 @@
 			{
 				"id": "base_36_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_36_5",
+				"variant": "Fire Punch Hickey (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -1295,6 +1333,10 @@
 			{
 				"id": "base_40_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_40_5",
+				"variant": "Trainer Deck A"
 			}
 		],
 		"cameos": null
@@ -1321,6 +1363,10 @@
 			{
 				"id": "base_41_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_41_5",
+				"variant": "Trainer Deck B"
 			}
 		],
 		"cameos": null
@@ -1347,6 +1393,22 @@
 			{
 				"id": "base_42_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_42_5",
+				"variant": "Trainer Deck B"
+			},
+			{
+				"id": "base_42_6",
+				"variant": "Evolution Box Error (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "base_42_7",
+				"variant": "Blue Hickey Wartortle (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -1373,6 +1435,18 @@
 			{
 				"id": "base_43_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_43_5",
+				"variant": "Jet Plane Abra (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			},
+			{
+				"id": "base_43_6",
+				"variant": "Yellow Stain Abra (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
 			}
 		],
 		"cameos": null
@@ -1399,6 +1473,12 @@
 			{
 				"id": "base_44_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_44_5",
+				"variant": "Sunbeam Bulbasaur (Shadowless)",
+				"error": true,
+				"error_type": "Obstruction"
 			}
 		],
 		"cameos": null
@@ -1451,6 +1531,18 @@
 			{
 				"id": "base_46_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_46_5",
+				"variant": "Scratch Error Charmander (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			},
+			{
+				"id": "base_46_6",
+				"variant": "HP Hickey Charmander (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
 			}
 		],
 		"cameos": null
@@ -1477,6 +1569,18 @@
 			{
 				"id": "base_47_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_47_5",
+				"variant": "Rotated Energy Symbol Diglett (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "base_47_6",
+				"variant": "Red Obstruction Diglett (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
 			}
 		],
 		"cameos": null
@@ -1607,6 +1711,16 @@
 			{
 				"id": "base_52_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_52_5",
+				"variant": "Trainer Deck A"
+			},
+			{
+				"id": "base_52_6",
+				"variant": "Yellow Belly Machop (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
 			}
 		],
 		"cameos": null
@@ -1633,6 +1747,12 @@
 			{
 				"id": "base_53_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_53_5",
+				"variant": "Forehead Hickey Magnemite (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -1665,7 +1785,7 @@
 	},
 	{
 		"id": "base_55",
-		"name": "Nidoran \u2642",
+		"name": "Nidoran ♂",
 		"number": "55",
 		"artist": "Ken Sugimori",
 		"rarity": "Common",
@@ -1711,6 +1831,16 @@
 			{
 				"id": "base_56_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_56_5",
+				"variant": "Trainer Deck A"
+			},
+			{
+				"id": "base_56_6",
+				"variant": "Border Hickey Onix (1st Edition)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -1737,6 +1867,10 @@
 			{
 				"id": "base_57_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_57_5",
+				"variant": "Trainer Deck B"
 			}
 		],
 		"cameos": null
@@ -1750,19 +1884,58 @@
 		"variants": [
 			{
 				"id": "base_58_1",
-				"variant": "1st Edition"
+				"variant": "1st Edition Yellow Cheeks"
 			},
 			{
 				"id": "base_58_2",
-				"variant": "Shadowless"
+				"variant": "1st Edition Red Cheeks"
 			},
 			{
 				"id": "base_58_3",
-				"variant": "Unlimited"
+				"variant": "Shadowless Yellow Cheeks"
 			},
 			{
 				"id": "base_58_4",
+				"variant": "Shadowless Red Cheeks"
+			},
+			{
+				"id": "base_58_5",
+				"variant": "Unlimited Yellow Cheeks"
+			},
+			{
+				"id": "base_58_6",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_58_7",
+				"variant": "PokéTour 1999 Stamp"
+			},
+			{
+				"id": "base_58_8",
+				"variant": "E3 Stamp Yellow Cheeks"
+			},
+			{
+				"id": "base_58_9",
+				"variant": "E3 Stamp Red Cheeks",
+				"has_stamp": true
+			},
+			{
+				"id": "base_58_10",
+				"variant": "Ghost Stamp (1st Edition)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "base_58_11",
+				"variant": "Thunder Jolt Hickey Pikachu (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			},
+			{
+				"id": "base_58_12",
+				"variant": "Copyright Strikethrough Pikachu (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
 			}
 		],
 		"cameos": null
@@ -1815,6 +1988,18 @@
 			{
 				"id": "base_60_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_60_5",
+				"variant": "Flame Tail Error Ponyta (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			},
+			{
+				"id": "base_60_6",
+				"variant": "Bat Signal Ponyta (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -1841,6 +2026,16 @@
 			{
 				"id": "base_61_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_61_5",
+				"variant": "Trainer Deck A"
+			},
+			{
+				"id": "base_61_6",
+				"variant": "Red Dot Rattata (Shadowless)",
+				"error": true,
+				"error_type": "Additional Ink"
 			}
 		],
 		"cameos": null
@@ -1867,6 +2062,10 @@
 			{
 				"id": "base_62_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_62_5",
+				"variant": "Trainer Deck A"
 			}
 		],
 		"cameos": null
@@ -1893,6 +2092,22 @@
 			{
 				"id": "base_63_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_63_5",
+				"variant": "Trainer Deck B"
+			},
+			{
+				"id": "base_63_6",
+				"variant": "Red Diamond Squirtle (Shadowless)",
+				"error": true,
+				"error_type": "Additional Ink"
+			},
+			{
+				"id": "base_63_7",
+				"variant": "Name Obstruction Squirtle (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
 			}
 		],
 		"cameos": null
@@ -1919,6 +2134,10 @@
 			{
 				"id": "base_64_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_64_5",
+				"variant": "Trainer Deck B"
 			}
 		],
 		"cameos": null
@@ -1945,6 +2164,16 @@
 			{
 				"id": "base_65_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_65_5",
+				"variant": "Trainer Deck B"
+			},
+			{
+				"id": "base_65_6",
+				"variant": "Red Hickey Staryu (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -1971,6 +2200,18 @@
 			{
 				"id": "base_66_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_66_5",
+				"variant": "Vine Hickey Tangela (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			},
+			{
+				"id": "base_66_6",
+				"variant": "Retreat Hickey Tangela (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -2023,6 +2264,30 @@
 			{
 				"id": "base_68_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_68_5",
+				"variant": "Blue Butt Vulpix (1st Edition)",
+				"error": true,
+				"error_type": "Additional Ink"
+			},
+			{
+				"id": "base_68_6",
+				"variant": "Blue Butt Vulpix (Shadowless)",
+				"error": true,
+				"error_type": "Additional Ink"
+			},
+			{
+				"id": "base_68_7",
+				"variant": "Water Symbol Error Vulpix (Shadowless)",
+				"error": true,
+				"error_type": "Obstruction"
+			},
+			{
+				"id": "base_68_8",
+				"variant": "Poop Hickey Vulpix (Shadowless)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -2101,6 +2366,10 @@
 			{
 				"id": "base_71_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_71_5",
+				"variant": "Trainer Deck B"
 			}
 		],
 		"cameos": null
@@ -2211,7 +2480,7 @@
 	},
 	{
 		"id": "base_76",
-		"name": "Pok\u00e9mon Breeder",
+		"name": "Pokémon Breeder",
 		"number": "76",
 		"artist": "Ken Sugimori",
 		"rarity": "Rare",
@@ -2237,7 +2506,7 @@
 	},
 	{
 		"id": "base_77",
-		"name": "Pok\u00e9mon Trader",
+		"name": "Pokémon Trader",
 		"number": "77",
 		"artist": "Ken Sugimori",
 		"rarity": "Rare",
@@ -2257,9 +2526,15 @@
 			{
 				"id": "base_77_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_77_5",
+				"variant": "Trainer Deck B"
 			}
 		],
-		"cameos": null
+		"cameos": [
+			"Farfetch'd"
+		]
 	},
 	{
 		"id": "base_78",
@@ -2285,7 +2560,9 @@
 				"variant": "1999-2000 Copyright"
 			}
 		],
-		"cameos": null
+		"cameos": [
+			"Weedle"
+		]
 	},
 	{
 		"id": "base_79",
@@ -2335,6 +2612,10 @@
 			{
 				"id": "base_80_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_80_5",
+				"variant": "Trainer Deck A"
 			}
 		],
 		"cameos": null
@@ -2445,7 +2726,7 @@
 	},
 	{
 		"id": "base_85",
-		"name": "Pok\u00e9mon Center",
+		"name": "Pokémon Center",
 		"number": "85",
 		"artist": "Keiji Kinebuchi",
 		"rarity": "Uncommon",
@@ -2471,7 +2752,7 @@
 	},
 	{
 		"id": "base_86",
-		"name": "Pok\u00e9mon Flute",
+		"name": "Pokémon Flute",
 		"number": "86",
 		"artist": "Keiji Kinebuchi",
 		"rarity": "Uncommon",
@@ -2497,7 +2778,7 @@
 	},
 	{
 		"id": "base_87",
-		"name": "Pok\u00e9dex",
+		"name": "Pokédex",
 		"number": "87",
 		"artist": "Keiji Kinebuchi",
 		"rarity": "Uncommon",
@@ -2519,7 +2800,9 @@
 				"variant": "1999-2000 Copyright"
 			}
 		],
-		"cameos": null
+		"cameos": [
+			"Dugtrio"
+		]
 	},
 	{
 		"id": "base_88",
@@ -2595,6 +2878,10 @@
 			{
 				"id": "base_90_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_90_5",
+				"variant": "Trainer Deck A"
 			}
 		],
 		"cameos": null
@@ -2647,6 +2934,10 @@
 			{
 				"id": "base_92_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_92_5",
+				"variant": "Trainer Deck B"
 			}
 		],
 		"cameos": null
@@ -2675,7 +2966,9 @@
 				"variant": "1999-2000 Copyright"
 			}
 		],
-		"cameos": null
+		"cameos": [
+			"Weedle"
+		]
 	},
 	{
 		"id": "base_94",
@@ -2699,6 +2992,10 @@
 			{
 				"id": "base_94_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_94_5",
+				"variant": "Trainer Deck A"
 			}
 		],
 		"cameos": null
@@ -2725,9 +3022,20 @@
 			{
 				"id": "base_95_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_95_5",
+				"variant": "Trainer Deck A"
+			},
+			{
+				"id": "base_95_6",
+				"variant": "Trainer Deck B"
 			}
 		],
-		"cameos": null
+		"cameos": [
+			"Magnemite",
+			"Kakuna"
+		]
 	},
 	{
 		"id": "base_96",
@@ -2777,6 +3085,16 @@
 			{
 				"id": "base_97_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_97_5",
+				"variant": "Trainer Deck A"
+			},
+			{
+				"id": "base_97_6",
+				"variant": "Border Hickey Fighting Energy (1st Edition)",
+				"error": true,
+				"error_type": "Hickey"
 			}
 		],
 		"cameos": null
@@ -2907,6 +3225,10 @@
 			{
 				"id": "base_102_4",
 				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "base_102_5",
+				"variant": "Trainer Deck B"
 			}
 		],
 		"cameos": null
