@@ -1,0 +1,1602 @@
+[
+	{
+		"id": "jungle_1",
+		"card_type": "Pokémon",
+		"name": "Clefable",
+		"number": "1",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_1_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_1_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_1_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "jungle_1_4",
+				"variant": "Prerelease Stamp Clefable (Unlimited)",
+				"error": true,
+				"error_type": "Additional Stamp"
+			},
+			{
+				"id": "jungle_1_5",
+				"variant": "Inverted Prerelease Stamp Clefable (Unlimited)",
+				"error": true,
+				"error_type": "Additional Stamp"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_2",
+		"card_type": "Pokémon",
+		"name": "Electrode",
+		"number": "2",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_2_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_2_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_2_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_3",
+		"card_type": "Pokémon",
+		"name": "Flareon",
+		"number": "3",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_3_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_3_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_3_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "jungle_3_4",
+				"variant": "Holo Hickey Flareon (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_4",
+		"card_type": "Pokémon",
+		"name": "Jolteon",
+		"number": "4",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_4_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_4_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_4_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_5",
+		"card_type": "Pokémon",
+		"name": "Kangaskhan",
+		"number": "5",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_5_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_5_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_5_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "jungle_5_4",
+				"variant": "Partial Holo Kangaskhan (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_6",
+		"card_type": "Pokémon",
+		"name": "Mr. Mime",
+		"number": "6",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_6_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_6_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_6_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_7",
+		"card_type": "Pokémon",
+		"name": "Nidoqueen",
+		"number": "7",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_7_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_7_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_7_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_8",
+		"card_type": "Pokémon",
+		"name": "Pidgeot",
+		"number": "8",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_8_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_8_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_8_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_9",
+		"card_type": "Pokémon",
+		"name": "Pinsir",
+		"number": "9",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_9_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_9_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_9_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "jungle_9_4",
+				"variant": "Scratch Error Pinsir (1st Edition)",
+				"error": true,
+				"error_type": "Obstruction"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_10",
+		"card_type": "Pokémon",
+		"name": "Scyther",
+		"number": "10",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_10_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_10_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_10_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_11",
+		"card_type": "Pokémon",
+		"name": "Snorlax",
+		"number": "11",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_11_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_11_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_11_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "jungle_11_4",
+				"variant": "Partial Holo Snorlax (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_12",
+		"card_type": "Pokémon",
+		"name": "Vaporeon",
+		"number": "12",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_12_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_12_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_12_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			},
+			{
+				"id": "jungle_12_4",
+				"variant": "Left Green Border Stain Vaporeon (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
+			},
+			{
+				"id": "jungle_12_5",
+				"variant": "Right Green Border Stain Vaporeon (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_13",
+		"card_type": "Pokémon",
+		"name": "Venomoth",
+		"number": "13",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_13_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_13_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_13_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_14",
+		"card_type": "Pokémon",
+		"name": "Victreebel",
+		"number": "14",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_14_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_14_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_14_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_15",
+		"card_type": "Pokémon",
+		"name": "Vileplume",
+		"number": "15",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_15_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_15_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_15_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_16",
+		"card_type": "Pokémon",
+		"name": "Wigglytuff",
+		"number": "16",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "jungle_16_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_16_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_16_3",
+				"variant": "No Set Symbol (Unlimited)",
+				"error": true,
+				"error_type": "Design"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_17",
+		"card_type": "Pokémon",
+		"name": "Clefable",
+		"number": "17",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_17_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_17_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_17_3",
+				"variant": "Pink Dot Clefable (Unlimited)",
+				"error": true,
+				"error_type": "Additional Ink"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_18",
+		"card_type": "Pokémon",
+		"name": "Electrode",
+		"number": "18",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_18_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_18_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_19",
+		"card_type": "Pokémon",
+		"name": "Flareon",
+		"number": "19",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_19_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_19_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_20",
+		"card_type": "Pokémon",
+		"name": "Jolteon",
+		"number": "20",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_20_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_20_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_21",
+		"card_type": "Pokémon",
+		"name": "Kangaskhan",
+		"number": "21",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_21_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_21_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_21_3",
+				"variant": "Yellow Highlighter Kangaskhan (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_22",
+		"card_type": "Pokémon",
+		"name": "Mr. Mime",
+		"number": "22",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_22_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_22_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_23",
+		"card_type": "Pokémon",
+		"name": "Nidoqueen",
+		"number": "23",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_23_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_23_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_24",
+		"card_type": "Pokémon",
+		"name": "Pidgeot",
+		"number": "24",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_24_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_24_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_25",
+		"card_type": "Pokémon",
+		"name": "Pinsir",
+		"number": "25",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_25_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_25_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_26",
+		"card_type": "Pokémon",
+		"name": "Scyther",
+		"number": "26",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_26_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_26_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_27",
+		"card_type": "Pokémon",
+		"name": "Snorlax",
+		"number": "27",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_27_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_27_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_27_3",
+				"variant": "Yellow Highlighter Snorlax (Unlimited)",
+				"error": true,
+				"error_type": "Obstruction"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_28",
+		"card_type": "Pokémon",
+		"name": "Vaporeon",
+		"number": "28",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_28_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_28_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_29",
+		"card_type": "Pokémon",
+		"name": "Venomoth",
+		"number": "29",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_29_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_29_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_30",
+		"card_type": "Pokémon",
+		"name": "Victreebel",
+		"number": "30",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_30_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_30_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_31",
+		"card_type": "Pokémon",
+		"name": "Vileplume",
+		"number": "31",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_31_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_31_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_32",
+		"card_type": "Pokémon",
+		"name": "Wigglytuff",
+		"number": "32",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "jungle_32_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_32_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_33",
+		"card_type": "Pokémon",
+		"name": "Butterfree",
+		"number": "33",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_33_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_33_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_33_3",
+				"variant": "d Edition Butterfree (1st Edition)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_34",
+		"card_type": "Pokémon",
+		"name": "Dodrio",
+		"number": "34",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_34_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_34_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_35",
+		"card_type": "Pokémon",
+		"name": "Exeggutor",
+		"number": "35",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_35_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_35_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_35_3",
+				"variant": "Border Hickey Exeggutor (1st Edition)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": [
+			"Crab"
+		],
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_36",
+		"card_type": "Pokémon",
+		"name": "Fearow",
+		"number": "36",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_36_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_36_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_37",
+		"card_type": "Pokémon",
+		"name": "Gloom",
+		"number": "37",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_37_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_37_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_38",
+		"card_type": "Pokémon",
+		"name": "Lickitung",
+		"number": "38",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_38_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_38_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_39",
+		"card_type": "Pokémon",
+		"name": "Marowak",
+		"number": "39",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_39_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_39_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_40",
+		"card_type": "Pokémon",
+		"name": "Nidorina",
+		"number": "40",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_40_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_40_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_41",
+		"card_type": "Pokémon",
+		"name": "Parasect",
+		"number": "41",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_41_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_41_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_42",
+		"card_type": "Pokémon",
+		"name": "Persian",
+		"number": "42",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_42_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_42_2",
+				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_42_3",
+				"variant": "Apple Tree Persian (Unlimited)",
+				"error": true,
+				"error_type": "Hickey"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_43",
+		"card_type": "Pokémon",
+		"name": "Primeape",
+		"number": "43",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_43_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_43_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_44",
+		"card_type": "Pokémon",
+		"name": "Rapidash",
+		"number": "44",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_44_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_44_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_45",
+		"card_type": "Pokémon",
+		"name": "Rhydon",
+		"number": "45",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_45_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_45_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_46",
+		"card_type": "Pokémon",
+		"name": "Seaking",
+		"number": "46",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_46_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_46_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_47",
+		"card_type": "Pokémon",
+		"name": "Tauros",
+		"number": "47",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_47_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_47_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_48",
+		"card_type": "Pokémon",
+		"name": "Weepinbell",
+		"number": "48",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "jungle_48_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_48_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": [
+			"Bird"
+		],
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_49",
+		"card_type": "Pokémon",
+		"name": "Bellsprout",
+		"number": "49",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_49_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_49_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_50",
+		"card_type": "Pokémon",
+		"name": "Cubone",
+		"number": "50",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_50_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_50_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_51",
+		"card_type": "Pokémon",
+		"name": "Eevee",
+		"number": "51",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_51_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_51_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": [
+			"Butterfly"
+		],
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_52",
+		"card_type": "Pokémon",
+		"name": "Exeggcute",
+		"number": "52",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_52_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_52_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_53",
+		"card_type": "Pokémon",
+		"name": "Goldeen",
+		"number": "53",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_53_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_53_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_54",
+		"card_type": "Pokémon",
+		"name": "Jigglypuff",
+		"number": "54",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_54_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_54_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_55",
+		"card_type": "Pokémon",
+		"name": "Mankey",
+		"number": "55",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_55_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_55_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_56",
+		"card_type": "Pokémon",
+		"name": "Meowth",
+		"number": "56",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_56_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_56_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_57",
+		"card_type": "Pokémon",
+		"name": "Nidoran ♀",
+		"number": "57",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_57_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_57_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_58",
+		"card_type": "Pokémon",
+		"name": "Oddish",
+		"number": "58",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_58_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_58_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_59",
+		"card_type": "Pokémon",
+		"name": "Paras",
+		"number": "59",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_59_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_59_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_60",
+		"card_type": "Pokémon",
+		"name": "Pikachu",
+		"number": "60",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_60_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_60_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_61",
+		"card_type": "Pokémon",
+		"name": "Rhyhorn",
+		"number": "61",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_61_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_61_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_62",
+		"card_type": "Pokémon",
+		"name": "Spearow",
+		"number": "62",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_62_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_62_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": [
+			"Worm"
+		],
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_63",
+		"card_type": "Pokémon",
+		"name": "Venonat",
+		"number": "63",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_63_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_63_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": [
+			"Bee"
+		],
+		"pokeball_cameos": null,
+		"first_art_appearance_for_language": true
+	},
+	{
+		"id": "jungle_64",
+		"card_type": "Trainer",
+		"name": "Poké Ball",
+		"number": "64",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "jungle_64_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "jungle_64_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": null,
+		"animal_cameos": null,
+		"pokeball_cameos": [
+			"Poké Ball"
+		],
+		"first_art_appearance_for_language": true
+	}
+]
