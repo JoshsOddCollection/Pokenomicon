@@ -30,3 +30,12 @@ Our initial goals are to:
 # Contributing
 
 Want to contribute? Feel free to [create a pull request](https://github.com/JoshsOddCollection/Pokenomicon/pulls)!
+
+---
+
+# Special Thanks
+Special thanks to all of the following resources - they have been invaluable references for collating the information in the Pokénomicon TCG database in one way or another.
+- [EliteFourum](https://www.elitefourum.com)
+- [pkmncards](https://pkmncards.com/)
+- [pokemon-tcg-data](https://github.com/PokemonTCG/pokemon-tcg-data) repo
+- [TCGCollector](https://github.com/PokemonTCG/pokemon-tcg-data)
