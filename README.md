@@ -23,7 +23,8 @@ Our initial goals are to:
 - `animal_cameos` - A list of all animals featured in a card. `null` if the field hasn't been filled out yet.
 - `pokeball_cameos` - A list of all types of Poké Balls featured in the card. Poké Balls featured as emblems (such as on Potions) do **_not_** count. `null` if the field hasn't been filled out yet.
 - `fossil_cameos` - A list of all fossil cameos featured in the card. `null` if the field hasn't been filled out.
-- `first_appearance_for_language` - A boolean stating whether or not this is the first appearance of the artwork for the given language. `null` if the field hasn't been filled out yet.
+- `is_first_art_appearance_for_language` - A boolean stating whether or not this is the first appearance of the artwork for the given language. `null` if the field hasn't been filled out yet.
+- `id_of_first_art_appearance_for_language` - The id of the first appearance of the artwork for the given language. `null` unless `is_first_art_appearance_for_language` is `false`.
 
 ---
 

@@ -38,7 +38,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_2",
@@ -67,7 +68,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_3",
@@ -102,7 +104,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_4",
@@ -131,7 +134,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_5",
@@ -166,7 +170,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_6",
@@ -195,7 +200,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_7",
@@ -224,7 +230,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_8",
@@ -253,7 +260,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_9",
@@ -288,7 +296,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_10",
@@ -317,7 +326,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_11",
@@ -352,7 +362,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_12",
@@ -393,7 +404,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_13",
@@ -422,7 +434,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_14",
@@ -451,7 +464,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_15",
@@ -480,7 +494,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_16",
@@ -509,7 +524,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_17",
@@ -538,7 +554,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_1"
 	},
 	{
 		"id": "jungle_18",
@@ -561,7 +578,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_2"
 	},
 	{
 		"id": "jungle_19",
@@ -584,7 +602,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_3"
 	},
 	{
 		"id": "jungle_20",
@@ -607,7 +626,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_4"
 	},
 	{
 		"id": "jungle_21",
@@ -636,7 +656,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_5"
 	},
 	{
 		"id": "jungle_22",
@@ -659,7 +680,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_6"
 	},
 	{
 		"id": "jungle_23",
@@ -682,7 +704,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_7"
 	},
 	{
 		"id": "jungle_24",
@@ -705,7 +728,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_8"
 	},
 	{
 		"id": "jungle_25",
@@ -728,7 +752,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_9"
 	},
 	{
 		"id": "jungle_26",
@@ -751,7 +776,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_10"
 	},
 	{
 		"id": "jungle_27",
@@ -780,7 +806,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_11"
 	},
 	{
 		"id": "jungle_28",
@@ -803,7 +830,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_12"
 	},
 	{
 		"id": "jungle_29",
@@ -826,7 +854,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_13"
 	},
 	{
 		"id": "jungle_30",
@@ -849,7 +878,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_14"
 	},
 	{
 		"id": "jungle_31",
@@ -872,7 +902,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_15"
 	},
 	{
 		"id": "jungle_32",
@@ -895,7 +926,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "jungle_16"
 	},
 	{
 		"id": "jungle_33",
@@ -924,7 +956,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_34",
@@ -947,7 +980,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_35",
@@ -978,7 +1012,8 @@
 		],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_36",
@@ -1001,7 +1036,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_37",
@@ -1024,7 +1060,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_38",
@@ -1047,7 +1084,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_39",
@@ -1070,7 +1108,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_40",
@@ -1093,7 +1132,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_41",
@@ -1116,7 +1156,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_42",
@@ -1145,7 +1186,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_43",
@@ -1168,7 +1210,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_44",
@@ -1191,7 +1234,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_45",
@@ -1214,7 +1258,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_46",
@@ -1237,7 +1282,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_47",
@@ -1260,7 +1306,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_48",
@@ -1285,7 +1332,8 @@
 		],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_49",
@@ -1308,7 +1356,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_50",
@@ -1331,7 +1380,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_51",
@@ -1356,7 +1406,8 @@
 		],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_52",
@@ -1379,7 +1430,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_53",
@@ -1402,7 +1454,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_54",
@@ -1425,7 +1478,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_55",
@@ -1448,7 +1502,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_56",
@@ -1471,7 +1526,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_57",
@@ -1494,7 +1550,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_58",
@@ -1517,7 +1574,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_59",
@@ -1540,7 +1598,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_60",
@@ -1563,7 +1622,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_61",
@@ -1586,7 +1646,8 @@
 		"animal_cameos": [],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_62",
@@ -1611,7 +1672,8 @@
 		],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_63",
@@ -1636,7 +1698,8 @@
 		],
 		"pokeball_cameos": [],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	},
 	{
 		"id": "jungle_64",
@@ -1661,6 +1724,7 @@
 			"Poké Ball"
 		],
 		"fossil_cameos": [],
-		"first_art_appearance_for_language": true
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
 	}
 ]
