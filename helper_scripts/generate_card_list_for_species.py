@@ -24,7 +24,10 @@ def get_pokemon_from_file(json_file: PosixPath, pokemon: str):
     for card in json_data:
         card_name = card["name"]
         card_cameos = card["cameos"]
-        is_cameo = pokemon in card_cameos
+        if card_cameos is None:
+            is_cameo = False
+        else:
+            is_cameo = pokemon in card_cameos
         if pokemon in card_name or is_cameo:
             print_card_information(card=card, is_cameo=is_cameo)
 
