@@ -1520,6 +1520,10 @@
 			{
 				"id": "jungle_56_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_56_3",
+				"variant": "Gold Border"
 			}
 		],
 		"cameos": [],
@@ -1616,6 +1620,10 @@
 			{
 				"id": "jungle_60_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "jungle_60_3",
+				"variant": "WotC Stamp"
 			}
 		],
 		"cameos": [],
