@@ -1,0 +1,1443 @@
+[
+	{
+		"id": "fossil_1",
+		"card_type": "Pokémon",
+		"name": "Aerodactyl",
+		"number": "1",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_1_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_1_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_2",
+		"card_type": "Pokémon",
+		"name": "Articuno",
+		"number": "2",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_2_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_2_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_3",
+		"card_type": "Pokémon",
+		"name": "Ditto",
+		"number": "3",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_3_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_3_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_4",
+		"card_type": "Pokémon",
+		"name": "Dragonite",
+		"number": "4",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_4_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_4_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_5",
+		"card_type": "Pokémon",
+		"name": "Gengar",
+		"number": "5",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_5_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_5_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_6",
+		"card_type": "Pokémon",
+		"name": "Haunter",
+		"number": "6",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_6_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_6_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_7",
+		"card_type": "Pokémon",
+		"name": "Hitmonlee",
+		"number": "7",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_7_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_7_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_8",
+		"card_type": "Pokémon",
+		"name": "Hypno",
+		"number": "8",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_8_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_8_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_9",
+		"card_type": "Pokémon",
+		"name": "Kabutops",
+		"number": "9",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_9_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_9_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_10",
+		"card_type": "Pokémon",
+		"name": "Lapras",
+		"number": "10",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_10_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_10_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_11",
+		"card_type": "Pokémon",
+		"name": "Magneton",
+		"number": "11",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_11_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_11_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_12",
+		"card_type": "Pokémon",
+		"name": "Moltres",
+		"number": "12",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_12_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_12_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_13",
+		"card_type": "Pokémon",
+		"name": "Muk",
+		"number": "13",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_13_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_13_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_14",
+		"card_type": "Pokémon",
+		"name": "Raichu",
+		"number": "14",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_14_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_14_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_15",
+		"card_type": "Pokémon",
+		"name": "Zapdos",
+		"number": "15",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare Holo",
+		"variants": [
+			{
+				"id": "fossil_15_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_15_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_16",
+		"card_type": "Pokémon",
+		"name": "Aerodactyl",
+		"number": "16",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_16_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_16_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_1"
+	},
+	{
+		"id": "fossil_17",
+		"card_type": "Pokémon",
+		"name": "Articuno",
+		"number": "17",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_17_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_17_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_2"
+	},
+	{
+		"id": "fossil_18",
+		"card_type": "Pokémon",
+		"name": "Ditto",
+		"number": "18",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_18_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_18_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_3"
+	},
+	{
+		"id": "fossil_19",
+		"card_type": "Pokémon",
+		"name": "Dragonite",
+		"number": "19",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_19_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_19_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_4"
+	},
+	{
+		"id": "fossil_20",
+		"card_type": "Pokémon",
+		"name": "Gengar",
+		"number": "20",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_20_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_20_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_5"
+	},
+	{
+		"id": "fossil_21",
+		"card_type": "Pokémon",
+		"name": "Haunter",
+		"number": "21",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_21_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_21_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_6"
+	},
+	{
+		"id": "fossil_22",
+		"card_type": "Pokémon",
+		"name": "Hitmonlee",
+		"number": "22",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_22_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_22_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_7"
+	},
+	{
+		"id": "fossil_23",
+		"card_type": "Pokémon",
+		"name": "Hypno",
+		"number": "23",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_23_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_23_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_8"
+	},
+	{
+		"id": "fossil_24",
+		"card_type": "Pokémon",
+		"name": "Kabutops",
+		"number": "24",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_24_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_24_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_9"
+	},
+	{
+		"id": "fossil_25",
+		"card_type": "Pokémon",
+		"name": "Lapras",
+		"number": "25",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_25_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_25_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_10"
+	},
+	{
+		"id": "fossil_26",
+		"card_type": "Pokémon",
+		"name": "Magneton",
+		"number": "26",
+		"artist": "Ken Sugimori",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_26_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_26_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_11"
+	},
+	{
+		"id": "fossil_27",
+		"card_type": "Pokémon",
+		"name": "Moltres",
+		"number": "27",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_27_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_27_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_12"
+	},
+	{
+		"id": "fossil_28",
+		"card_type": "Pokémon",
+		"name": "Muk",
+		"number": "28",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_28_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_28_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_13"
+	},
+	{
+		"id": "fossil_29",
+		"card_type": "Pokémon",
+		"name": "Raichu",
+		"number": "29",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_29_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_29_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_14"
+	},
+	{
+		"id": "fossil_30",
+		"card_type": "Pokémon",
+		"name": "Zapdos",
+		"number": "30",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Rare",
+		"variants": [
+			{
+				"id": "fossil_30_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_30_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": false,
+		"id_of_first_art_appearance_for_language": "fossil_15"
+	},
+	{
+		"id": "fossil_31",
+		"card_type": "Pokémon",
+		"name": "Arbok",
+		"number": "31",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_31_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_31_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_32",
+		"card_type": "Pokémon",
+		"name": "Cloyster",
+		"number": "32",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_32_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_32_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_33",
+		"card_type": "Pokémon",
+		"name": "Gastly",
+		"number": "33",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_33_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_33_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_34",
+		"card_type": "Pokémon",
+		"name": "Golbat",
+		"number": "34",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_34_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_34_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_35",
+		"card_type": "Pokémon",
+		"name": "Golduck",
+		"number": "35",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_35_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_35_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_36",
+		"card_type": "Pokémon",
+		"name": "Golem",
+		"number": "36",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_36_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_36_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_37",
+		"card_type": "Pokémon",
+		"name": "Graveler",
+		"number": "37",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_37_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_37_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_38",
+		"card_type": "Pokémon",
+		"name": "Kingler",
+		"number": "38",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_38_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_38_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_39",
+		"card_type": "Pokémon",
+		"name": "Magmar",
+		"number": "39",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_39_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_39_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_40",
+		"card_type": "Pokémon",
+		"name": "Omastar",
+		"number": "40",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_40_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_40_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_41",
+		"card_type": "Pokémon",
+		"name": "Sandslash",
+		"number": "41",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_41_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_41_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_42",
+		"card_type": "Pokémon",
+		"name": "Seadra",
+		"number": "42",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_42_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_42_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_43",
+		"card_type": "Pokémon",
+		"name": "Slowbro",
+		"number": "43",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_43_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_43_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_44",
+		"card_type": "Pokémon",
+		"name": "Tentacruel",
+		"number": "44",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_44_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_44_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_45",
+		"card_type": "Pokémon",
+		"name": "Weezing",
+		"number": "45",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_45_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_45_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_46",
+		"card_type": "Pokémon",
+		"name": "Ekans",
+		"number": "46",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_46_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_46_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_47",
+		"card_type": "Pokémon",
+		"name": "Geodude",
+		"number": "47",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_47_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_47_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_48",
+		"card_type": "Pokémon",
+		"name": "Grimer",
+		"number": "48",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_48_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_48_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_49",
+		"card_type": "Pokémon",
+		"name": "Horsea",
+		"number": "49",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_49_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_49_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_50",
+		"card_type": "Pokémon",
+		"name": "Kabuto",
+		"number": "50",
+		"artist": "Ken Sugimori",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_50_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_50_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_51",
+		"card_type": "Pokémon",
+		"name": "Krabby",
+		"number": "51",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_51_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_51_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_52",
+		"card_type": "Pokémon",
+		"name": "Omanyte",
+		"number": "52",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_52_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_52_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_53",
+		"card_type": "Pokémon",
+		"name": "Psyduck",
+		"number": "53",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_53_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_53_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [
+			"Fish"
+		],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_54",
+		"card_type": "Pokémon",
+		"name": "Shellder",
+		"number": "54",
+		"artist": "Mitsuhiro Arita",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_54_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_54_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_55",
+		"card_type": "Pokémon",
+		"name": "Slowpoke",
+		"number": "55",
+		"artist": "Miki Tanaka",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_55_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_55_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_56",
+		"card_type": "Pokémon",
+		"name": "Tentacool",
+		"number": "56",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_56_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_56_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_57",
+		"card_type": "Pokémon",
+		"name": "Zubat",
+		"number": "57",
+		"artist": "Kagemaru Himeno",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_57_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_57_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_58",
+		"card_type": "Trainer",
+		"name": "Mr. Fuji",
+		"number": "58",
+		"artist": "Ken Sugimori",
+		"rarity": "Uncommon",
+		"variants": [
+			{
+				"id": "fossil_58_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_58_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [
+			"Poliwag",
+			"Weedle",
+			"Pikachu",
+			"Lickitung",
+			"Cubone"
+		],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_59",
+		"card_type": "Trainer",
+		"name": "Energy Search",
+		"number": "59",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_59_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_59_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_60",
+		"card_type": "Trainer",
+		"name": "Gambler",
+		"number": "60",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_60_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_60_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_61",
+		"card_type": "Trainer",
+		"name": "Recycle",
+		"number": "61",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_61_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_61_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [
+			"Jigglypuff"
+		],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	},
+	{
+		"id": "fossil_62",
+		"card_type": "Trainer",
+		"name": "Mysterious Fossil",
+		"number": "62",
+		"artist": "Keiji Kinebuchi",
+		"rarity": "Common",
+		"variants": [
+			{
+				"id": "fossil_62_1",
+				"variant": "1st Edition"
+			},
+			{
+				"id": "fossil_62_2",
+				"variant": "Unlimited"
+			}
+		],
+		"cameos": [],
+		"animal_cameos": [],
+		"pokeball_cameos": [],
+		"fossil_cameos": [
+			"Kabutops",
+			"Omanyte",
+			"Aerodactyl"
+		],
+		"is_first_art_appearance_for_language": true,
+		"id_of_first_art_appearance_for_language": null
+	}
+]
