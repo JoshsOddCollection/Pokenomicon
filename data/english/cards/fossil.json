@@ -14,6 +14,18 @@
 			{
 				"id": "fossil_1_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_1_3",
+				"variant": "1st Edition PRERELEASE"
+			},
+			{
+				"id": "fossil_1_4",
+				"variant": "1st Edition PRERELEASE Cosmos Holo"
+			},
+			{
+				"id": "fossil_1_5",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -37,6 +49,10 @@
 			{
 				"id": "fossil_2_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_2_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -60,6 +76,10 @@
 			{
 				"id": "fossil_3_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_3_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -83,6 +103,10 @@
 			{
 				"id": "fossil_4_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_4_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -106,6 +130,10 @@
 			{
 				"id": "fossil_5_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_5_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -129,6 +157,10 @@
 			{
 				"id": "fossil_6_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_6_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -152,6 +184,10 @@
 			{
 				"id": "fossil_7_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_7_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -175,6 +211,10 @@
 			{
 				"id": "fossil_8_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_8_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -198,6 +238,10 @@
 			{
 				"id": "fossil_9_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_9_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -221,6 +265,10 @@
 			{
 				"id": "fossil_10_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_10_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -244,6 +292,10 @@
 			{
 				"id": "fossil_11_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_11_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -267,6 +319,10 @@
 			{
 				"id": "fossil_12_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_12_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -290,6 +346,10 @@
 			{
 				"id": "fossil_13_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_13_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -313,6 +373,10 @@
 			{
 				"id": "fossil_14_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_14_3",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
 			}
 		],
 		"cameos": [],
@@ -335,7 +399,21 @@
 			},
 			{
 				"id": "fossil_15_2",
-				"variant": "Unlimited"
+				"variant": "Unlimited (Corrected Evolution Box)"
+			},
+			{
+				"id": "fossil_15_3",
+				"variant": "Unlimited Cosmos Holo (Thunderstorm Deck)"
+			},
+			{
+				"id": "fossil_15_4",
+				"variant": "Unlimited Cosmos Holo (WotC Employees)"
+			},
+			{
+				"id": "fossil_15_5",
+				"variant": "Evolution Box Error (Unlimited)",
+				"error": true,
+				"error_type": "Design"
 			}
 		],
 		"cameos": [],
@@ -359,6 +437,10 @@
 			{
 				"id": "fossil_16_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_16_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -382,6 +464,10 @@
 			{
 				"id": "fossil_17_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_17_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -405,6 +491,10 @@
 			{
 				"id": "fossil_18_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_18_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -428,6 +518,10 @@
 			{
 				"id": "fossil_19_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_19_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -451,6 +545,10 @@
 			{
 				"id": "fossil_20_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_20_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -474,6 +572,10 @@
 			{
 				"id": "fossil_21_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_21_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -497,6 +599,10 @@
 			{
 				"id": "fossil_22_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_22_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -520,6 +626,10 @@
 			{
 				"id": "fossil_23_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_23_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -543,6 +653,10 @@
 			{
 				"id": "fossil_24_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_24_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -566,6 +680,10 @@
 			{
 				"id": "fossil_25_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_25_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -589,6 +707,10 @@
 			{
 				"id": "fossil_26_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_26_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -612,6 +734,10 @@
 			{
 				"id": "fossil_27_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_27_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -635,6 +761,10 @@
 			{
 				"id": "fossil_28_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_28_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -658,6 +788,10 @@
 			{
 				"id": "fossil_29_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_29_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -681,6 +815,10 @@
 			{
 				"id": "fossil_30_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_30_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -704,6 +842,10 @@
 			{
 				"id": "fossil_31_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_31_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -727,6 +869,10 @@
 			{
 				"id": "fossil_32_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_32_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -750,6 +896,10 @@
 			{
 				"id": "fossil_33_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_33_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -773,6 +923,10 @@
 			{
 				"id": "fossil_34_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_34_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -796,6 +950,10 @@
 			{
 				"id": "fossil_35_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_35_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -819,6 +977,10 @@
 			{
 				"id": "fossil_36_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_36_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -842,6 +1004,10 @@
 			{
 				"id": "fossil_37_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_37_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -865,6 +1031,10 @@
 			{
 				"id": "fossil_38_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_38_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -888,6 +1058,10 @@
 			{
 				"id": "fossil_39_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_39_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -911,6 +1085,10 @@
 			{
 				"id": "fossil_40_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_40_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -934,6 +1112,10 @@
 			{
 				"id": "fossil_41_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_41_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -957,6 +1139,10 @@
 			{
 				"id": "fossil_42_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_42_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -980,6 +1166,10 @@
 			{
 				"id": "fossil_43_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_43_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1003,6 +1193,10 @@
 			{
 				"id": "fossil_44_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_44_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1026,6 +1220,10 @@
 			{
 				"id": "fossil_45_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_45_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1049,6 +1247,10 @@
 			{
 				"id": "fossil_46_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_46_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1072,6 +1274,10 @@
 			{
 				"id": "fossil_47_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_47_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1095,6 +1301,10 @@
 			{
 				"id": "fossil_48_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_48_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1118,6 +1328,10 @@
 			{
 				"id": "fossil_49_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_49_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1141,6 +1355,14 @@
 			{
 				"id": "fossil_50_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_50_3",
+				"variant": "1999-2000 Copyright"
+			},
+			{
+				"id": "fossil_50_4",
+				"variant": "WotC Stamp"
 			}
 		],
 		"cameos": [],
@@ -1164,6 +1386,10 @@
 			{
 				"id": "fossil_51_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_51_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1187,6 +1413,10 @@
 			{
 				"id": "fossil_52_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_52_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1210,6 +1440,10 @@
 			{
 				"id": "fossil_53_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_53_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1235,6 +1469,10 @@
 			{
 				"id": "fossil_54_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_54_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1258,6 +1496,10 @@
 			{
 				"id": "fossil_55_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_55_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1281,6 +1523,10 @@
 			{
 				"id": "fossil_56_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_56_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1304,6 +1550,10 @@
 			{
 				"id": "fossil_57_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_57_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1327,6 +1577,10 @@
 			{
 				"id": "fossil_58_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_58_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [
@@ -1356,6 +1610,10 @@
 			{
 				"id": "fossil_59_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_59_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1379,6 +1637,10 @@
 			{
 				"id": "fossil_60_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_60_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
@@ -1402,6 +1664,10 @@
 			{
 				"id": "fossil_61_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_61_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [
@@ -1427,6 +1693,10 @@
 			{
 				"id": "fossil_62_2",
 				"variant": "Unlimited"
+			},
+			{
+				"id": "fossil_62_3",
+				"variant": "1999-2000 Copyright"
 			}
 		],
 		"cameos": [],
