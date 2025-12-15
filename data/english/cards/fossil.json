@@ -1720,14 +1720,13 @@
 				"variant": "1999-2000 Copyright"
 			}
 		],
-		"cameos": [],
+		"cameos": [
+			"Kabutops (Fossil)",
+			"Omanyte (Fossil)",
+			"Aerodactyl (Fossil)"
+		],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
-		"fossil_cameos": [
-			"Kabutops",
-			"Omanyte",
-			"Aerodactyl"
-		],
 		"is_first_art_appearance_for_language": true,
 		"id_of_first_art_appearance_for_language": null
 	}

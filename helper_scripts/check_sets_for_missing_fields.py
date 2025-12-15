@@ -3,8 +3,8 @@ from pathlib import Path
 
 def check_set_for_missing_fields(json_data):
     card_fields = [
-        "card_type", "name", "number", "artist", "rarity", "variants", "cameos",
-        "animal_cameos", "pokeball_cameos", "is_first_art_appearance_for_language",
+        "card_type", "name", "number", "artist", "rarity", "variants", "cameos", "animal_cameos",
+        "pokeball_cameos", "is_first_art_appearance_for_language",
         "id_of_first_art_appearance_for_language"
     ]
     for card in json_data:
