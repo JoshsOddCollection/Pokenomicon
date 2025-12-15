@@ -1,58 +1,58 @@
 [
-  {
-    "id": "base",
-    "name": "Base",
-    "series": "Original",
-    "displayed_total": "102",
-    "release_date": "01/09/1999"
-  },
-  {
-    "id": "jungle",
-    "name": "Jungle",
-    "series": "Original",
-    "displayed_total": "64",
-    "release_date": "06/16/1999"
-  },
-  {
-    "id": "wotc_promos",
-    "name": "Wizards of the Coast Promos",
-    "series": "Original",
-    "displayed_total": null,
-    "release_date": "07/01/1999"
-  },
-  {
-    "id": "fossil",
-    "name": "Fossil",
-    "series": "Original",
-    "displayed_total": "62",
-    "release_date": "10/10/1999"
-  },
-  {
-    "id": "base_2",
-    "name": "Base Set 2",
-    "series": "Original",
-    "displayed_total": "130",
-    "release_date": "02/24/2000"
-  },
-  {
-    "id": "team_rocket",
-    "name": "Team Rocket",
-    "series": "Original",
-    "displayed_total": "82",
-    "release_date": "04/24/2000"
-  },
-  {
-    "id": "gym_heroes",
-    "name": "Gym Heroes",
-    "series": "Original",
-    "displayed_total": "132",
-    "release_date": "08/14/2000"
-  },
-  {
-    "id": "gym_challenge",
-    "name": "Gym Challenge",
-    "series": "Original",
-    "displayed_total": "132",
-    "release_date": "10/16/2000"
-  }
+	{
+		"id": "base",
+		"name": "Base",
+		"series": "Original",
+		"displayed_total": "102",
+		"release_date": "01/09/1999"
+	},
+	{
+		"id": "jungle",
+		"name": "Jungle",
+		"series": "Original",
+		"displayed_total": "64",
+		"release_date": "06/16/1999"
+	},
+	{
+		"id": "wotc_promos",
+		"name": "Wizards of the Coast Promos",
+		"series": "Original",
+		"displayed_total": null,
+		"release_date": "07/01/1999"
+	},
+	{
+		"id": "fossil",
+		"name": "Fossil",
+		"series": "Original",
+		"displayed_total": "62",
+		"release_date": "10/10/1999"
+	},
+	{
+		"id": "base_2",
+		"name": "Base Set 2",
+		"series": "Original",
+		"displayed_total": "130",
+		"release_date": "02/24/2000"
+	},
+	{
+		"id": "team_rocket",
+		"name": "Team Rocket",
+		"series": "Original",
+		"displayed_total": "82",
+		"release_date": "04/24/2000"
+	},
+	{
+		"id": "gym_heroes",
+		"name": "Gym Heroes",
+		"series": "Original",
+		"displayed_total": "132",
+		"release_date": "08/14/2000"
+	},
+	{
+		"id": "gym_challenge",
+		"name": "Gym Challenge",
+		"series": "Original",
+		"displayed_total": "132",
+		"release_date": "10/16/2000"
+	}
 ]
