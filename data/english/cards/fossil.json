@@ -141,6 +141,28 @@
 				"notes": "This card was only available to WotC Employees."
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_5_1_e_1",
+				"error_name": "Yellow Stripe Gengar",
+				"error_type": "Additional Ink",
+				"error_side": "Front",
+				"notes": {
+					"description": "Two small lines of additional yellow ink appear above the evolution box and the name.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_5_1_e_2",
+				"error_name": "Flex Hickey Gengar",
+				"error_type": "Additional Ink",
+				"error_side": "Back",
+				"notes": {
+					"description": "A large printer hickey appears on the back of the card above the 'M' in Pokemon. The printer hickey vaguely looks like a flexing arm with a circle around it.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -169,6 +191,38 @@
 				"notes": "This card was only available to WotC Employees."
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_6_1_e_1",
+				"error_name": "Yellow Stripe Haunter",
+				"error_type": "Additional Ink",
+				"error_side": "Front",
+				"notes": {
+					"description": "Two lines of yellow ink appear vertically on the left side of the card.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_6_2_e_1",
+				"error_name": "Blue Stain Haunter",
+				"error_type": "Printer Hickey",
+				"error_side": "Front",
+				"notes": {
+					"description": "A large cyan/magenta ink spill appears to the right of Haunter and sometimes reaches to the border of the art box.",
+					"print_run": "This error appears in various sizes throughout the print run, some of which are so small that they're difficult to see."
+				}
+			},
+			{
+				"id": "fossil_6_2_e_2",
+				"error_name": "White Stain Haunter",
+				"error_type": "Obstruction",
+				"error_side": "Front",
+				"notes": {
+					"description": "A white ink obstruction appears under Haunter's lower hand.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -195,6 +249,28 @@
 				"id": "fossil_7_3",
 				"variant": "Unlimited Cosmos Holo",
 				"notes": "This card was only available to WotC Employees."
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_7_1_e_1",
+				"error_name": "Yellow Stripe Hitmonlee",
+				"error_type": "Additional Ink",
+				"error_side": "Front",
+				"notes": {
+					"description": "Two lines of yellow ink appear vertically on the left side of the card. The size of the error changes throughout the print run and sometimes only appears as a single line.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_7_2_e_1",
+				"error_name": "Don t Error Hitmonlee",
+				"error_type": "Design",
+				"error_side": "Front",
+				"notes": {
+					"description": "The apostrophe is missing in the word 'Don't' in the description of the Stretch Kick move.",
+					"print_run": "Usually design errors appear at the very beginning of a print run, but oddly enough, this design error was introduced after First Edition and as part of the Unlimited print run. The current best explanation is that the apostrophe was accidentally deleted when the first edition stamp was deleted from the design."
+				}
 			}
 		],
 		"cameos": [],
@@ -279,6 +355,18 @@
 				"id": "fossil_10_3",
 				"variant": "Unlimited Cosmos Holo",
 				"notes": "This card was only available to WotC Employees."
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_10_1_e_1",
+				"error_name": "Yellow Stripe Lapras",
+				"error_type": "Additional Ink",
+				"error_side": "Front",
+				"notes": {
+					"description": "Two lines of yellow ink appear vertically on the card. The left line is so faint that at first glance it only appears as a single line. The side of the error changes throughout the print run.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -411,12 +499,12 @@
 				"id": "fossil_15_1",
 				"variant": "1st Edition",
 				"uncorrected_error": true,
-				"notes": "This card has an evolution box error that was never corrected in the 1st Edition print runs."
+				"notes": "This card has opaque ink where the evolution box would normally be printed, but since there is no evolution, the card appears to have a 'missing' section of the holo. This error was not corrected until part way through the Unlimited print run."
 			},
 			{
 				"id": "fossil_15_2",
 				"variant": "Unlimited",
-				"notes": "This is the corrected version of the card without the Evolution Box error."
+				"notes": "This is the corrected version of the Unlimited Evolution Box error card (fossil_15_2_e_1). These cards were printed after the Evolution Box error cards."
 			},
 			{
 				"id": "fossil_15_3",
@@ -432,9 +520,33 @@
 		"error_variants": [
 			{
 				"id": "fossil_15_2_e_1",
-				"variant": "Unlimited",
-				"error_name": "Evolution Box Error",
-				"error_type": "Design"
+				"error_name": "Evolution Box Error Zapdos",
+				"error_type": "Design",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has opaque ink where the evolution box would normally be printed, but since there is no evolution, the card appears to have a 'missing' section of the holo.",
+					"print_run": "This error was not corrected until part way through the Unlimited print run."
+				}
+			},
+			{
+				"id": "fossil_15_2_e_2",
+				"error_name": "Scratch Error Zapdos",
+				"error_type": "Obstruction",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has an obstruction on the set symbol that appears to be two scratch marks. All known copies of this card also have the Evolution Box Error (fossil_15_2_e_1).",
+					"print_run": "These cards were printed early on in the print run since all known copies of this card were printed before the design was fixed."
+				}
+			},
+			{
+				"id": "fossil_15_3_e_1",
+				"error_name": "Liquid Obstruction Error Zapdos",
+				"error_type": "Obstruction",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has a liquid obstruction on the opaque layer. This makes the card appear as if it has additional holo across a large section of the card. The obstruction appears in slightly different locations on each card.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
