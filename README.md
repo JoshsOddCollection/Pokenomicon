@@ -40,6 +40,8 @@ Our initial goals are to:
 - `is_first_art_appearance_for_language` - A boolean stating whether or not this is the first appearance of the artwork for the given language. `null` if the field hasn't been filled out yet.
 - `id_of_first_art_appearance_for_language` - The id of the first appearance of the artwork for the given language. `null` unless `is_first_art_appearance_for_language` is `false`.
 
+Each `id` field is _permanent_ once it is committed to the `main` branch. This ensures that we always provide backwards compatibility and prevents breaking changes when new cards/variants/errors are added to the database.
+
 ---
 
 # Contributing
