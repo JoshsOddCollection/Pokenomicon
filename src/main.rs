@@ -1,0 +1,287 @@
+use regex::Regex;
+use serde::Deserialize;
+use serde_json::Value;
+use std::collections::{HashMap, HashSet};
+
+#[allow(dead_code)]
+#[derive(Debug, Deserialize)]
+struct Card {
+    #[serde(default)]
+    id: Option<String>,
+    #[serde(default)]
+    card_type: Option<String>,
+    #[serde(default)]
+    name: Option<String>,
+    #[serde(default)]
+    number: Option<String>,
+    #[serde(default)]
+    artist: Option<String>,
+    #[serde(default)]
+    rarity: Option<String>,
+    #[serde(default)]
+    variants: Vec<Variant>,
+    #[serde(default)]
+    error_variants: Vec<ErrorVariant>,
+    #[serde(default)]
+    cameos: Option<Vec<String>>,
+    #[serde(default)]
+    animal_cameos: Option<Vec<String>>,
+    #[serde(default)]
+    pokeball_cameos: Option<Vec<String>>,
+    #[serde(default)]
+    is_first_art_appearance_for_language: Option<bool>,
+    #[serde(default)]
+    id_of_first_art_appearance_for_language: Option<String>,
+
+    // Catch extra fields
+    #[serde(flatten)]
+    extra: HashMap<String, Value>,
+}
+
+#[allow(dead_code)]
+#[derive(Debug, Deserialize)]
+struct Variant {
+    #[serde(default)]
+    id: Option<String>,
+    #[serde(default)]
+    variant: Option<String>,
+    // This field should only exist if true
+    #[serde(default)]
+    uncorrected_error: Option<bool>,
+    #[serde(default)]
+    notes: Option<String>,
+
+    // Catch extra fields
+    #[serde(flatten)]
+    extra: HashMap<String, Value>,
+}
+
+#[allow(dead_code)]
+#[derive(Debug, Deserialize)]
+struct ErrorVariant {
+    #[serde(default)]
+    id: Option<String>,
+    #[serde(default)]
+    error_name: Option<String>,
+    #[serde(default)]
+    error_type: Option<String>,
+    #[serde(default)]
+    error_side: Option<String>,
+    #[serde(default)]
+    notes: Option<ErrorNotes>,
+
+    // Catch extra fields
+    #[serde(flatten)]
+    extra: HashMap<String, Value>,
+}
+
+#[allow(dead_code)]
+#[derive(Debug, Deserialize)]
+struct ErrorNotes {
+    #[serde(default)]
+    description: Option<String>,
+    #[serde(default)]
+    print_run: Option<String>,
+
+    // Catch extra fields
+    #[serde(flatten)]
+    extra: HashMap<String, Value>,
+}
+
+fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
+    let mut errors = Vec::new();
+    let mut card_ids = HashSet::new();
+    let mut variant_ids = HashSet::new();
+    let mut error_ids = HashSet::new();
+
+    let valid_card_types = ["Pokémon", "Trainer"];
+    let valid_error_sides = ["Front", "Back", "Both"];
+    let card_id_regex = Regex::new(r"^[a-z0-9]+_\d+$").unwrap();
+    let variant_id_regex = Regex::new(r"^[a-z0-9]+_\d+_\d+$").unwrap();
+    let error_id_regex = Regex::new(r"^[a-z0-9]+_\d+_\d+_e_\d+$").unwrap();
+
+    for card in cards {
+        let card_id = match &card.id {
+            Some(id) => id,
+            None => {
+                errors.push("Card missing id".to_string());
+                continue;
+            }
+        };
+
+        // Card ID format & uniqueness
+        if !card_id_regex.is_match(card_id) {
+            errors.push(format!("Invalid card id format: {}", card_id));
+        }
+        if !card_ids.insert(card_id) {
+            errors.push(format!("Duplicate card id: {}", card_id));
+        }
+
+        // Card type
+        match &card.card_type {
+            Some(ct) => {
+                if !valid_card_types.contains(&ct.as_str()) {
+                    errors.push(format!("Invalid card_type for {}: {}", card_id, ct));
+                }
+            }
+            None => errors.push(format!("Card {} missing card_type", card_id)),
+        }
+
+        // Extra fields in card
+        for key in card.extra.keys() {
+            errors.push(format!("Unexpected field in card {}: {}", card_id, key));
+        }
+
+        // Variants
+        for variant in &card.variants {
+            let variant_id = match &variant.id {
+                Some(id) => id,
+                None => {
+                    errors.push(format!("Variant missing id for card {}", card_id));
+                    continue;
+                }
+            };
+
+            if !variant_id_regex.is_match(variant_id) {
+                errors.push(format!("Invalid variant id format: {}", variant_id));
+            }
+            if !variant_ids.insert(variant_id) {
+                errors.push(format!("Duplicate variant id: {}", variant_id));
+            }
+            if !variant_id.starts_with(card_id) {
+                errors.push(format!(
+                    "Variant id does not start with card id: {} (card {})",
+                    variant_id, card_id
+                ));
+            }
+
+            if variant.uncorrected_error == Some(false) {
+                errors.push(format!(
+                    "Variant {} has uncorrected_error set to false, which is not allowed",
+                    variant.id.as_deref().unwrap_or("<unknown>")
+                ));
+            }
+
+            for key in variant.extra.keys() {
+                errors.push(format!(
+                    "Unexpected field in variant {}: {}",
+                    variant_id, key
+                ));
+            }
+        }
+
+        // Error variants
+        for error in &card.error_variants {
+            let error_id = match &error.id {
+                Some(id) => id,
+                None => {
+                    errors.push(format!("Error variant missing id for card {}", card_id));
+                    continue;
+                }
+            };
+
+            if !error_id_regex.is_match(error_id) {
+                errors.push(format!("Invalid error variant id format: {}", error_id));
+            }
+            if !error_ids.insert(error_id) {
+                errors.push(format!("Duplicate error variant id: {}", error_id));
+            }
+
+            if !card.variants.iter().any(|v| {
+                if let Some(vid) = &v.id {
+                    error_id.starts_with(vid)
+                } else {
+                    false
+                }
+            }) {
+                errors.push(format!(
+                    "Error variant id does not start with a variant id: {}",
+                    error_id
+                ));
+            }
+
+            match &error.error_side {
+                Some(side) => {
+                    if !valid_error_sides.contains(&side.as_str()) {
+                        errors.push(format!("Invalid error_side for {}: {}", error_id, side));
+                    }
+                }
+                None => errors.push(format!("Error variant missing error_side: {}", error_id)),
+            }
+
+            match &error.notes {
+                Some(notes) => {
+                    if notes.description.as_deref().unwrap_or("").is_empty() {
+                        errors.push(format!("Error description missing for {}", error_id));
+                    }
+
+                    for key in notes.extra.keys() {
+                        errors.push(format!(
+                            "Unexpected field in error notes {}: {}",
+                            error_id, key
+                        ));
+                    }
+                }
+                None => errors.push(format!("Error notes missing for {}", error_id)),
+            }
+
+            for key in error.extra.keys() {
+                errors.push(format!(
+                    "Unexpected field in error variant {}: {}",
+                    error_id, key
+                ));
+            }
+        }
+
+        // Cameos
+        for (name, field) in [
+            ("cameos", &card.cameos),
+            ("animal_cameos", &card.animal_cameos),
+            ("pokeball_cameos", &card.pokeball_cameos),
+        ] {
+            if let Some(list) = field {
+                if list.iter().any(|s| s.is_empty()) {
+                    errors.push(format!(
+                        "{} contains empty string for card {}",
+                        name, card_id
+                    ));
+                }
+            }
+        }
+
+        // First art appearance
+        if matches!(card.is_first_art_appearance_for_language, Some(false)) {
+            if card.id_of_first_art_appearance_for_language.is_none() {
+                errors.push(format!(
+                    "id_of_first_art_appearance_for_language must be set if is_first_art_appearance_for_language is false for card {}",
+                    card_id
+                ));
+            }
+        }
+    }
+
+    if errors.is_empty() {
+        Ok(())
+    } else {
+        Err(errors)
+    }
+}
+
+fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let json_file_location = "./data/english/cards/fossil.json";
+    let json_data = std::fs::read_to_string(json_file_location)?;
+    // Every field is optional to avoid crashing serde if fields don't exist
+    let cards: Vec<Card> = serde_json::from_str(&json_data)?;
+
+    match validate_cards(&cards) {
+        Ok(_) => println!("All cards in `{}` are valid!", json_file_location),
+        Err(errs) => {
+            println!("Validation errors:");
+            for e in errs {
+                println!("- {}", e);
+            }
+        }
+    }
+
+    Ok(())
+}
