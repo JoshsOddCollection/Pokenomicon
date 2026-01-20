@@ -34,6 +34,7 @@ Here is a list of errors that will not be accepted:
 - **Reproducible "errors"**
     - **Not Factory Cut (NFC) cards** - these cards are not legitimate errors and do not belong in the database.
     - **Missing gold foil cards** - there are ways to strip the gold foil from cards so there is no way to verify the authenticity of these cards. Since these cards cannot be verified, they will be denied.
+    - **Sunfaded cards** - these are not actually errors and are post-factory UV damage. These can often be confused with low-ink or missing-ink cards.
 
 ---
 
