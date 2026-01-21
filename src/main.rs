@@ -88,6 +88,10 @@ struct ErrorNotes {
     extra: HashMap<String, Value>,
 }
 
+fn parse_error_index(error_id: &str) -> Option<u32> {
+    error_id.rsplit("_e_").next()?.parse().ok()
+}
+
 fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
     let mut errors = Vec::new();
     let mut card_ids = HashSet::new();
@@ -171,6 +175,8 @@ fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
             }
         }
 
+        let mut error_indices_by_variant: HashMap<String, Vec<u32>> = HashMap::new();
+
         // Error variants
         for error in &card.error_variants {
             let error_id = match &error.id {
@@ -180,6 +186,22 @@ fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
                     continue;
                 }
             };
+
+            // Track error indices to make sure the error numbers are sequential
+            if let Some(index) = parse_error_index(error_id) {
+                if let Some(variant) = card.variants.iter().find(|v| {
+                    v.id.as_deref()
+                        .map(|vid| error_id.starts_with(vid))
+                        .unwrap_or(false)
+                }) {
+                    if let Some(variant_id) = &variant.id {
+                        error_indices_by_variant
+                            .entry(variant_id.clone())
+                            .or_default()
+                            .push(index);
+                    }
+                }
+            }
 
             match &error.error_name {
                 Some(name) if !name.trim().is_empty() => {
@@ -266,6 +288,21 @@ fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
                     "Unexpected field in error variant {}: {}",
                     error_id, key
                 ));
+            }
+        }
+
+        // Validate that the error indices are sequential
+        for (variant_id, mut indices) in error_indices_by_variant {
+            indices.sort_unstable();
+
+            for (expected, actual) in (1u32..).zip(indices.iter()) {
+                if *actual != expected {
+                    errors.push(format!(
+                        "Error variant ids for variant {} are not sequential: expected _e_{}, found _e_{}",
+                        variant_id, expected, actual
+                    ));
+                    break;
+                }
             }
         }
 
