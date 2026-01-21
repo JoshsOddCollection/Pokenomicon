@@ -93,6 +93,7 @@ fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
     let mut card_ids = HashSet::new();
     let mut variant_ids = HashSet::new();
     let mut error_ids = HashSet::new();
+    let mut error_names: HashMap<String, String> = HashMap::new();
 
     let valid_card_types = ["Pokémon", "Trainer"];
     let valid_error_sides = ["Front", "Back", "Both"];
@@ -179,6 +180,41 @@ fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
                     continue;
                 }
             };
+
+            match &error.error_name {
+                Some(name) if !name.trim().is_empty() => {
+                    let normalized_error_name = name.trim().to_lowercase();
+
+                    // error_name needs to be unique
+                    if let Some(first_id) =
+                        error_names.insert(normalized_error_name.clone(), error_id.to_string())
+                    {
+                        errors.push(format!(
+                            "Duplicate error_name '{}' used by {} and {}",
+                            name, first_id, error_id
+                        ));
+                    }
+
+                    // error_name must contain the card name
+                    if let Some(card_name) = &card.name {
+                        if !name.contains(card_name) {
+                            errors.push(format!(
+                                "error_name '{}' for {} must contain the card name '{}'",
+                                name, error_id, card_name
+                            ));
+                        }
+                    }
+                }
+                Some(_) => {
+                    errors.push(format!(
+                        "Error variant {} has an empty error_name",
+                        error_id
+                    ));
+                }
+                None => {
+                    errors.push(format!("Error variant {} is missing error_name", error_id));
+                }
+            }
 
             if !error_id_regex.is_match(error_id) {
                 errors.push(format!("Invalid error variant id format: {}", error_id));
