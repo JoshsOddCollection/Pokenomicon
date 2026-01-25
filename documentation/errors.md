@@ -4,7 +4,7 @@
 
 ## **Quick Summary**
 - Repeating errors generally require proof of **three copies**.
-- Extremely minor, microscopic, or reproducible errors are **not accepted**
+- Extremely minor, microscopic, or reproducible errors are **not accepted**.
 
 ---
 
@@ -18,6 +18,8 @@ When submitting a new repeating error, you must provide proof that at least thre
 Because cards are printed on sheets containing multiple copies of each card, some errors are known to repeat by default. For these error types, proof of a single copy is sufficient:
 - Holo shifts (misaligned opaque layer)
 - Inverted backs
+
+Another weird edge case is **End of Holo Roll** cards. These cards must be verified on a case-by-case basis. Since this error only affects cards on the edge of the sheet, verification is entirely dependent upon the sheet that the card comes from (for example, Fossil sheets have three Kabutops on the very left side of the sheet, so only a single copy is required as proof. Ditto only has one card on the very left of the sheet, so three copies are required as proof.). These cards are so rare that we encourage you to submit yours even if you only have a single copy - we may already know of one or two copies and your copy could be the third required for verification.
 
 **Design errors:**<br>
 Although design errors are inherently printed multiple times, multiple verified copies are still required. This ensures the error is truly a design error and not another error type (for example, an obstruction covering text or a hickey causing letters to appear incorrect).

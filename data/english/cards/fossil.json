@@ -71,6 +71,16 @@
 		],
 		"error_variants": [
 			{
+				"id": "fossil_2_1_e_1",
+				"error_name": "End of Holo Articuno (1st Edition)",
+				"error_type": "End of Holo",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card was printed on the end of the holo roll. This appears as an odd white line on the very left of the card but when viewed at an angle it's obvious that part of the holo is missing. The card is thinner where the holo roll is missing.",
+					"print_run": null
+				}
+			},
+			{
 				"id": "fossil_2_2_e_1",
 				"error_name": "Holo Shift Articuno",
 				"error_type": "Misaligned Print Layer",
@@ -157,6 +167,16 @@
 				"error_side": "Front",
 				"notes": {
 					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_4_2_e_2",
+				"error_name": "End of Holo Dragonite (Unlimited)",
+				"error_type": "End of Holo",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card was printed on the end of the holo roll. This appears as an odd white line on the very left of the card but when viewed at an angle it's obvious that part of the holo is missing. The card is thinner where the holo roll is missing.",
 					"print_run": null
 				}
 			}
@@ -431,12 +451,32 @@
 		],
 		"error_variants": [
 			{
+				"id": "fossil_9_1_e_1",
+				"error_name": "End of Holo Kabutops (1st Edition)",
+				"error_type": "End of Holo",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card was printed on the end of the holo roll. This appears as an odd white line on the very left of the card but when viewed at an angle it's obvious that part of the holo is missing. The card is thinner where the holo roll is missing.",
+					"print_run": null
+				}
+			},
+			{
 				"id": "fossil_9_2_e_1",
 				"error_name": "Holo Shift Kabutops",
 				"error_type": "Misaligned Print Layer",
 				"error_side": "Front",
 				"notes": {
 					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_9_2_e_2",
+				"error_name": "End of Holo Kabutops (Unlimited)",
+				"error_type": "End of Holo",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card was printed on the end of the holo roll. This appears as an odd white line on the very left of the card but when viewed at an angle it's obvious that part of the holo is missing. The card is thinner where the holo roll is missing.",
 					"print_run": null
 				}
 			}

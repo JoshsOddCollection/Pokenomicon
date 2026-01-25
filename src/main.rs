@@ -104,6 +104,7 @@ fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
     let valid_error_types = [
         "Additional Ink",
         "Design",
+        "End of Holo",
         "Misaligned Print Layer",
         "Obstruction",
         "Printer Hickey",
