@@ -29,6 +29,18 @@
 				"notes": "This card was only available to WotC Employees."
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_1_2_e_1",
+				"error_name": "Holo Shift Aerodactyl",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -55,6 +67,18 @@
 				"id": "fossil_2_3",
 				"variant": "Unlimited Cosmos Holo",
 				"notes": "This card was only available to WotC Employees."
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_2_2_e_1",
+				"error_name": "Holo Shift Articuno",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -85,6 +109,18 @@
 				"notes": "This card was only available to WotC Employees."
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_3_2_e_1",
+				"error_name": "Holo Shift Ditto",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -111,6 +147,18 @@
 				"id": "fossil_4_3",
 				"variant": "Unlimited Cosmos Holo",
 				"notes": "This card was only available to WotC Employees."
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_4_2_e_1",
+				"error_name": "Holo Shift Dragonite",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -164,6 +212,16 @@
 			},
 			{
 				"id": "fossil_5_2_e_1",
+				"error_name": "Holo Shift Gengar",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_5_2_e_2",
 				"error_name": "Flexing Arm Hickey Gengar (Unlimited)",
 				"error_type": "Additional Ink",
 				"error_side": "Back",
@@ -214,6 +272,16 @@
 			},
 			{
 				"id": "fossil_6_2_e_1",
+				"error_name": "Holo Shift Haunter",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_6_2_e_2",
 				"error_name": "Oil Spill Haunter",
 				"error_type": "Printer Hickey",
 				"error_side": "Front",
@@ -223,7 +291,7 @@
 				}
 			},
 			{
-				"id": "fossil_6_2_e_2",
+				"id": "fossil_6_2_e_3",
 				"error_name": "Ghost Swipe Haunter",
 				"error_type": "Obstruction",
 				"error_side": "Front",
@@ -274,6 +342,16 @@
 			},
 			{
 				"id": "fossil_7_2_e_1",
+				"error_name": "Holo Shift Hitmonlee",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_7_2_e_2",
 				"error_name": "Don t Error Hitmonlee",
 				"error_type": "Design",
 				"error_side": "Front",
@@ -311,6 +389,18 @@
 				"notes": "This card was only available to WotC Employees."
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_8_2_e_1",
+				"error_name": "Holo Shift Hypno",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -337,6 +427,18 @@
 				"id": "fossil_9_3",
 				"variant": "Unlimited Cosmos Holo",
 				"notes": "This card was only available to WotC Employees."
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_9_2_e_1",
+				"error_name": "Holo Shift Kabutops",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -377,6 +479,16 @@
 					"description": "Two lines of yellow ink appear vertically on the card. The left line is so faint that at first glance it only appears as a single line. The side of the error changes throughout the print run.",
 					"print_run": null
 				}
+			},
+			{
+				"id": "fossil_10_2_e_1",
+				"error_name": "Holo Shift Lapras",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -407,6 +519,18 @@
 				"notes": "This card was only available to WotC Employees."
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_11_2_e_1",
+				"error_name": "Holo Shift Magneton",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -433,6 +557,18 @@
 				"id": "fossil_12_3",
 				"variant": "Unlimited Cosmos Holo",
 				"notes": "This card was only available to WotC Employees."
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_12_2_e_1",
+				"error_name": "Holo Shift Moltres",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -463,6 +599,18 @@
 				"notes": "This card was only available to WotC Employees."
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_13_2_e_1",
+				"error_name": "Holo Shift Muk",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -489,6 +637,18 @@
 				"id": "fossil_14_3",
 				"variant": "Unlimited Cosmos Holo",
 				"notes": "This card was only available to WotC Employees."
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_14_2_e_1",
+				"error_name": "Holo Shift Raichu",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -530,6 +690,16 @@
 		"error_variants": [
 			{
 				"id": "fossil_15_2_e_1",
+				"error_name": "Holo Shift Zapdos",
+				"error_type": "Misaligned Print Layer",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has the opaque layer misaligned which makes the holo portion shine through lower on the card.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_15_2_e_2",
 				"error_name": "Evolution Box Error Zapdos",
 				"error_type": "Design",
 				"error_side": "Front",
@@ -539,7 +709,7 @@
 				}
 			},
 			{
-				"id": "fossil_15_2_e_2",
+				"id": "fossil_15_2_e_3",
 				"error_name": "Scratch Error Zapdos",
 				"error_type": "Obstruction",
 				"error_side": "Front",

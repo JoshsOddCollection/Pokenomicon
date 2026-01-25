@@ -101,6 +101,13 @@ fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
 
     let valid_card_types = ["Pokémon", "Trainer"];
     let valid_error_sides = ["Front", "Back", "Both"];
+    let valid_error_types = [
+        "Additional Ink",
+        "Design",
+        "Misaligned Print Layer",
+        "Obstruction",
+        "Printer Hickey",
+    ];
     let card_id_regex = Regex::new(r"^[a-z0-9]+_\d+$").unwrap();
     let variant_id_regex = Regex::new(r"^[a-z0-9]+_\d+_\d+$").unwrap();
     let error_id_regex = Regex::new(r"^[a-z0-9]+_\d+_\d+_e_\d+$").unwrap();
@@ -265,6 +272,20 @@ fn validate_cards(cards: &[Card]) -> Result<(), Vec<String>> {
                     }
                 }
                 None => errors.push(format!("Error variant missing error_side: {}", error_id)),
+            }
+
+            match &error.error_type {
+                Some(error_type) => {
+                    if !valid_error_types.contains(&error_type.as_str()) {
+                        errors.push(format!(
+                            "Invalid error_type for {}: {}",
+                            error_id, error_type
+                        ));
+                    }
+                }
+                None => {
+                    errors.push(format!("Error variant {} is missing error_type", error_id));
+                }
             }
 
             match &error.notes {
