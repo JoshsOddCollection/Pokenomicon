@@ -144,7 +144,17 @@
 		"error_variants": [
 			{
 				"id": "fossil_5_1_e_1",
-				"error_name": "Yellow Stripe Gengar",
+				"error_name": "Flexing Arm Hickey Gengar (1st Edition)",
+				"error_type": "Additional Ink",
+				"error_side": "Back",
+				"notes": {
+					"description": "A large printer hickey appears on the back of the card above the 'M' in Pokemon. The printer hickey vaguely looks like a flexing arm with a circle around it.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_5_1_e_2",
+				"error_name": "Yellow Pillar Gengar",
 				"error_type": "Additional Ink",
 				"error_side": "Front",
 				"notes": {
@@ -153,8 +163,8 @@
 				}
 			},
 			{
-				"id": "fossil_5_1_e_2",
-				"error_name": "Flex Hickey Gengar",
+				"id": "fossil_5_2_e_1",
+				"error_name": "Flexing Arm Hickey Gengar (Unlimited)",
 				"error_type": "Additional Ink",
 				"error_side": "Back",
 				"notes": {
@@ -194,7 +204,7 @@
 		"error_variants": [
 			{
 				"id": "fossil_6_1_e_1",
-				"error_name": "Yellow Stripe Haunter",
+				"error_name": "Yellow Pillar Haunter",
 				"error_type": "Additional Ink",
 				"error_side": "Front",
 				"notes": {
@@ -204,7 +214,7 @@
 			},
 			{
 				"id": "fossil_6_2_e_1",
-				"error_name": "Blue Stain Haunter",
+				"error_name": "Oil Spill Haunter",
 				"error_type": "Printer Hickey",
 				"error_side": "Front",
 				"notes": {
@@ -214,7 +224,7 @@
 			},
 			{
 				"id": "fossil_6_2_e_2",
-				"error_name": "White Stain Haunter",
+				"error_name": "Ghost Swipe Haunter",
 				"error_type": "Obstruction",
 				"error_side": "Front",
 				"notes": {
@@ -254,7 +264,7 @@
 		"error_variants": [
 			{
 				"id": "fossil_7_1_e_1",
-				"error_name": "Yellow Stripe Hitmonlee",
+				"error_name": "Yellow Pillar Hitmonlee",
 				"error_type": "Additional Ink",
 				"error_side": "Front",
 				"notes": {
@@ -360,7 +370,7 @@
 		"error_variants": [
 			{
 				"id": "fossil_10_1_e_1",
-				"error_name": "Yellow Stripe Lapras",
+				"error_name": "Yellow Pillar Lapras",
 				"error_type": "Additional Ink",
 				"error_side": "Front",
 				"notes": {
@@ -540,11 +550,11 @@
 			},
 			{
 				"id": "fossil_15_3_e_1",
-				"error_name": "Liquid Obstruction Error Zapdos",
+				"error_name": "Cosmos Spill Zapdos",
 				"error_type": "Obstruction",
 				"error_side": "Front",
 				"notes": {
-					"description": "This card has a liquid obstruction on the opaque layer. This makes the card appear as if it has additional holo across a large section of the card. The obstruction appears in slightly different locations on each card.",
+					"description": "This card has a liquid obstruction on the opaque layer. This makes the card appear as if it has additional holo across a large section of the card. The obstruction appears in slightly different locations on each card, but can be found across Zapdos's body and goes all the way down to the stats section.",
 					"print_run": null
 				}
 			}
@@ -628,6 +638,18 @@
 			{
 				"id": "fossil_18_3",
 				"variant": "1999-2000 Copyright"
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_18_2_e_1",
+				"error_name": "Checkerboard Hickey Ditto",
+				"error_type": "Printer Hickey",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has a cyan printer hickey above the center of Ditto's head.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -981,6 +1003,18 @@
 				"variant": "1999-2000 Copyright"
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_31_2_e_1",
+				"error_name": "Black Nucleus Arbok",
+				"error_type": "Printer Hickey",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has a large black printer hickey to the right of Arbok's body. The printer hickey extends past the edge of the artwork towards the card border.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -1251,6 +1285,18 @@
 				"variant": "1999-2000 Copyright"
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_41_2_e_1",
+				"error_name": "Weakness Dot Sandslash",
+				"error_type": "Additional Ink",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has additional black ink to the right of the weakness. The error appears as multiple black dots.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -1276,6 +1322,18 @@
 			{
 				"id": "fossil_42_3",
 				"variant": "1999-2000 Copyright"
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_42_2_e_1",
+				"error_name": "Pectoral Hickey Seadra",
+				"error_type": "Printer Hickey",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has a large printer hickey on the left side of the description behind the word 'pectoral'.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -1440,6 +1498,28 @@
 				"variant": "1999-2000 Copyright"
 			}
 		],
+		"error_variants": [
+			{
+				"id": "fossil_48_2_e_1",
+				"error_name": "Sludge Barrel Grimer",
+				"error_type": "Obstruction",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has a liquid obstruction on the barrel to the left of Grimer.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_48_2_e_2",
+				"error_name": "Truss Hickey Grimer",
+				"error_type": "Printer Hickey",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has two printer hickeys on the middle of the X in the truss to the left of Grimer.",
+					"print_run": null
+				}
+			}
+		],
 		"cameos": [],
 		"animal_cameos": [],
 		"pokeball_cameos": [],
@@ -1465,6 +1545,28 @@
 			{
 				"id": "fossil_49_3",
 				"variant": "1999-2000 Copyright"
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_49_2_e_1",
+				"error_name": "Smoke Ring Horsea",
+				"error_type": "Printer Hickey",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has a printer hickey to the left and above Horsea's mouth.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_49_2_e_2",
+				"error_name": "Name Hickey Horsea",
+				"error_type": "Printer Hickey",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has a printer hickey behind the 'H' and 'o' in Horsea's name at the top left of the card.",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
@@ -1523,6 +1625,38 @@
 			{
 				"id": "fossil_51_3",
 				"variant": "1999-2000 Copyright"
+			}
+		],
+		"error_variants": [
+			{
+				"id": "fossil_51_1_e_1",
+				"error_name": "Bloody Claw Krabby",
+				"error_type": "Printer Hickey",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has a printer hickey on the bottom half of the claw on the right side of the card.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_51_2_e_1",
+				"error_name": "Slash Error Krabby",
+				"error_type": "Obstruction",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has an obstruction on the set symbol that appears to be a singular scratch mark.",
+					"print_run": null
+				}
+			},
+			{
+				"id": "fossil_51_2_e_2",
+				"error_name": "Length Hickey Krabby",
+				"error_type": "Printer Hickey",
+				"error_side": "Front",
+				"notes": {
+					"description": "This card has a printer hickey covering the \"th: 1'\" in \"Length: 1' 4\".",
+					"print_run": null
+				}
 			}
 		],
 		"cameos": [],
