@@ -1,8 +1,8 @@
-# Pokénomicon
+# Collectornomicon
 
-Welcome to the Pokénomicon!
+Welcome to the **Collectornomicon**!
 
-A play on words between Pokémon and the Necronomicon, this tool aims to contain a wealth of knowledge for all Pokémon collectors. Similar to the Necronomicon, the forbidden contents of this tool will threaten your sanity - once you reveal its contents, you'll learn that your collection is never complete!
+This tool aims to contain a wealth of knowledge for all Pokémon collectors. Similar to the Necronomicon, the forbidden contents of this tool will threaten your sanity - once you reveal its contents, you'll learn that your collection is never complete!
 
 ---
 
@@ -40,3 +40,9 @@ Special thanks to all of the following resources - they have been invaluable ref
 - [pkmncards](https://pkmncards.com/)
 - [pokemon-tcg-data](https://github.com/PokemonTCG/pokemon-tcg-data) repo
 - [TCGCollector](https://github.com/PokemonTCG/pokemon-tcg-data)
+
+---
+
+# Disclaimer
+
+Collectornomicon is an unofficial, fan-made project. Pokémon and all related trademarks are the property of Nintendo, GAME FREAK, Creatures Inc., and The Pokémon Company International. This project is not affiliated with or endorsed by them.
